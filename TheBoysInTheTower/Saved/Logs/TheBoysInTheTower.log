@@ -2550,3 +2550,152 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-17.09.39:107][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.15-17.09.39:107][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.15-17.09.39:108][462]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.15-17.14.25:004][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7022.450684
+[2025.12.15-17.14.26:006][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.14.26:006][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7023.119629, Update Interval: 354.810638
+[2025.12.15-17.17.17:921][231]LogDerivedDataCache: C:/Users/Phil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
+[2025.12.15-17.21.17:418][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7434.866699
+[2025.12.15-17.21.18:415][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.21.18:415][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7435.533203, Update Interval: 311.669678
+[2025.12.15-17.26.27:711][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-17.26.27:721][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-17.26.27:721][422]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2025.12.15-17.26.27:723][422]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.12.15-17.26.27:747][423]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlockOut
+[2025.12.15-17.26.27:753][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006429s)
+[2025.12.15-17.26.27:753][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockOut.BlockOut to /Game/UEDPIE_0_BlockOut.BlockOut (0.006494s)
+[2025.12.15-17.26.27:765][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.15-17.26.27:767][423]LogChaosDD: Creating Chaos Debug Draw Scene for world BlockOut
+[2025.12.15-17.26.27:769][423]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2025.12.15-17.26.27:769][423]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-17.26.27:769][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-17.26.27:769][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-17.26.27:769][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-17.26.27:769][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-17.26.27:769][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-17.26.27:771][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-17.26.27:794][423]LogAudioMixer: Display: Using Audio Hardware Device HD60 X (NVIDIA High Definition Audio)
+[2025.12.15-17.26.27:794][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-17.26.27:794][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-17.26.27:794][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-17.26.27:796][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.15-17.26.27:796][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.15-17.26.27:797][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.15-17.26.27:797][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.15-17.26.27:797][423]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.15-17.26.27:797][423]LogAudio: Display: Audio Device (ID: 3) registered with world 'BlockOut'.
+[2025.12.15-17.26.27:797][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.15-17.26.27:798][423]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.15-17.26.27:801][423]LogLoad: Game class is 'GameModeBase'
+[2025.12.15-17.26.27:804][423]LogWorld: Bringing World /Game/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2025.12.15-17.26.27
+[2025.12.15-17.26.27:804][423]LogWorld: Bringing up level for play took: 0.003031
+[2025.12.15-17.26.27:806][423]PIE: Server logged in
+[2025.12.15-17.26.27:807][423]PIE: Play in editor total start time 0.086 seconds.
+[2025.12.15-17.27.15:148][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7792.593750
+[2025.12.15-17.27.15:265][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.27.15:265][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7792.701660, Update Interval: 341.254913
+[2025.12.15-17.27.33:759][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-17.27.33:759][307]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlockOut
+[2025.12.15-17.27.33:759][307]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-17.27.33:759][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-17.27.33:763][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-17.27.33:765][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-17.27.33:774][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-17.27.33:774][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.15-17.27.33:774][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.12.15-17.27.33:776][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.12.15-17.27.33:783][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.15-17.27.33:857][308]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.12.15-17.29.30:972][102]Cmd: DELETE
+[2025.12.15-17.29.30:972][102]Cmd: ACTOR DELETE
+[2025.12.15-17.29.30:975][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.15-17.29.30:985][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.15-17.29.30:986][102]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.12.15-17.29.42:610][461]Cmd: DELETE
+[2025.12.15-17.29.42:611][461]Cmd: ACTOR DELETE
+[2025.12.15-17.29.42:613][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.15-17.29.42:622][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.15-17.29.42:623][461]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.12.15-17.30.16:871][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-17.30.16:871][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-17.30.16:871][445]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_331
+[2025.12.15-17.30.16:872][445]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_331
+[2025.12.15-17.30.20:406][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.12.15-17.30.20:408][857]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2025.12.15-17.30.20:412][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-17.30.20:412][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-17.30.20:413][857]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_332
+[2025.12.15-17.30.20:414][857]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_332
+[2025.12.15-17.33.37:842][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8174.972656
+[2025.12.15-17.33.37:984][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.33.37:984][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8175.105957, Update Interval: 355.359955
+[2025.12.15-17.34.23:862][630]Cmd: DELETE
+[2025.12.15-17.34.23:862][630]Cmd: ACTOR DELETE
+[2025.12.15-17.34.23:864][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.15-17.34.23:872][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.15-17.34.23:874][630]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.12.15-17.34.25:367][796]Cmd: DELETE
+[2025.12.15-17.34.25:367][796]Cmd: ACTOR DELETE
+[2025.12.15-17.34.25:369][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.15-17.34.25:378][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.12.15-17.34.25:379][796]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.12.15-17.35.08:669][927]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.08:670][927]LogEditorTransaction: Undo Scale Elements
+[2025.12.15-17.35.09:008][938]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.09:008][938]LogEditorTransaction: Undo Move Elements
+[2025.12.15-17.35.09:422][971]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.09:422][971]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-17.35.09:810][  7]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.09:810][  7]LogEditorTransaction: Undo Move Elements
+[2025.12.15-17.35.10:113][ 40]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.10:113][ 40]LogEditorTransaction: Undo Move Elements
+[2025.12.15-17.35.10:467][ 73]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.10:467][ 73]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-17.35.10:891][116]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.10:891][116]LogEditorTransaction: Undo Move Elements
+[2025.12.15-17.35.11:278][154]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.11:278][154]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-17.35.11:709][204]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.11:709][204]LogEditorTransaction: Undo Delete Elements
+[2025.12.15-17.35.12:136][243]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.12:136][243]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-17.35.12:633][299]Cmd: TRANSACTION UNDO
+[2025.12.15-17.35.12:633][299]LogEditorTransaction: Undo Delete Elements
+[2025.12.15-17.35.45:644][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-17.35.45:680][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-17.35.45:729][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.15-17.35.45:748][154]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.15-17.35.45:749][154]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut2C6D53814ACAA5A0C7A245BFC3F83A59.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.15-17.35.45:772][154]LogFileHelpers: Saving map 'BlockOut' took 0.092
+[2025.12.15-17.35.45:791][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.837 ms (total: 405.269 ms)
+[2025.12.15-17.35.45:828][154]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-17.35.45:828][154]LogContentValidation: Enabled validators:
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-17.35.45:828][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-17.35.45:828][154]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.15-17.39.27:054][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-17.39.27:079][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-17.39.27:120][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.12.15-17.39.27:139][923]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.15-17.39.27:139][923]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut09B780C24FA98550304ACC9005A89A26.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.15-17.39.27:156][923]LogFileHelpers: Saving map 'BlockOut' took 0.077
+[2025.12.15-17.39.27:163][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.976 ms (total: 514.246 ms)
+[2025.12.15-17.39.27:193][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-17.39.27:194][923]LogContentValidation: Enabled validators:
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-17.39.27:194][923]AssetCheck: /Game/BlockOut Validating asset
