@@ -1,3 +1,2 @@
-[1214/210136.772:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[1214/210139.116:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1214/210336.991:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1215/000728.330:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1215/000925.830:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
