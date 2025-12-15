@@ -2699,3 +2699,159 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.15-17.39.27:194][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.15-17.39.27:194][923]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.15-17.40.17:398][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8574.729492
+[2025.12.15-17.40.18:394][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.40.18:394][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8575.391602, Update Interval: 359.088104
+[2025.12.15-17.46.48:928][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8967.297852
+[2025.12.15-17.46.49:054][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.46.49:054][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8967.415039, Update Interval: 313.259064
+[2025.12.15-17.53.00:301][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9339.833008
+[2025.12.15-17.53.00:434][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.53.00:435][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9339.958984, Update Interval: 352.864166
+[2025.12.15-17.59.39:171][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9739.847656
+[2025.12.15-17.59.39:320][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-17.59.39:320][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9739.990234, Update Interval: 336.146118
+[2025.12.15-18.05.49:240][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10111.081055
+[2025.12.15-18.05.49:374][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.05.49:374][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10111.207031, Update Interval: 352.532715
+[2025.12.15-18.12.32:789][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10515.856445
+[2025.12.15-18.12.32:931][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.12.32:931][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10515.991211, Update Interval: 308.769196
+[2025.12.15-18.17.17:920][989]LogDerivedDataCache: C:/Users/Phil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.15-18.18.22:424][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10866.407227
+[2025.12.15-18.18.22:566][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.18.22:566][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10866.539062, Update Interval: 357.797180
+[2025.12.15-18.25.11:162][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11276.345703
+[2025.12.15-18.25.11:312][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.25.11:312][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11276.487305, Update Interval: 320.898468
+[2025.12.15-18.31.31:305][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11657.621094
+[2025.12.15-18.31.31:446][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.31.31:446][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11657.754883, Update Interval: 328.202759
+[2025.12.15-18.37.58:783][698]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12046.223633
+[2025.12.15-18.37.58:908][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.37.58:908][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12046.340820, Update Interval: 353.003326
+[2025.12.15-18.44.35:262][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12443.845703
+[2025.12.15-18.44.35:396][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.44.35:396][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12443.971680, Update Interval: 309.256256
+[2025.12.15-18.46.35:705][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.15-18.46.35:705][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.15-18.46.35:706][648]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_335
+[2025.12.15-18.46.35:708][648]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_335
+[2025.12.15-18.46.39:012][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.15-18.46.39:013][ 38]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2025.12.15-18.46.39:017][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.15-18.46.39:017][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.15-18.46.39:018][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_336
+[2025.12.15-18.46.39:019][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_336
+[2025.12.15-18.48.37:175][979]Cmd: TRANSACTION UNDO
+[2025.12.15-18.48.37:175][979]LogEditorTransaction: Undo Group Selected
+[2025.12.15-18.50.33:913][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12803.243164
+[2025.12.15-18.50.34:038][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.50.34:038][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12803.360352, Update Interval: 346.416809
+[2025.12.15-18.50.48:814][432]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.48:814][432]LogEditorTransaction: Undo Rename Folder
+[2025.12.15-18.50.49:501][467]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.49:501][467]LogEditorTransaction: Undo Create Folder
+[2025.12.15-18.50.54:039][984]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.54:039][984]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.55:389][ 95]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.55:389][ 95]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.56:680][235]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.56:680][235]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.57:909][371]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.57:909][371]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.58:213][379]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.58:213][379]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.58:422][383]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.58:422][383]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.58:607][394]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.58:607][394]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.58:782][408]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.58:782][408]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.58:991][426]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.58:991][426]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.59:257][451]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.59:257][451]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.59:541][478]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.59:541][478]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.50.59:785][500]Cmd: TRANSACTION UNDO
+[2025.12.15-18.50.59:785][500]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.00:018][521]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.00:018][521]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.00:212][536]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.00:212][536]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.00:799][598]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.00:799][598]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.01:166][634]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.01:166][634]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.02:175][746]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.02:175][746]LogEditorTransaction: Undo Rename Folder
+[2025.12.15-18.51.02:562][758]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.02:563][758]LogEditorTransaction: Undo Create Folder
+[2025.12.15-18.51.03:445][851]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.03:445][851]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.03:887][895]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.03:887][895]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.04:589][970]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.04:589][970]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.04:984][  9]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.04:985][  9]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.05:290][ 38]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.05:290][ 38]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.15-18.51.05:649][ 70]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.05:649][ 70]LogEditorTransaction: Undo Rename Folder
+[2025.12.15-18.51.06:714][194]Cmd: TRANSACTION UNDO
+[2025.12.15-18.51.06:714][194]LogEditorTransaction: Undo Create Folder
+[2025.12.15-18.51.36:625][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-18.51.36:625][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-18.51.36:626][629]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_342
+[2025.12.15-18.51.36:626][629]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_342
+[2025.12.15-18.51.41:121][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.15-18.51.41:122][156]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.12.15-18.51.41:126][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-18.51.41:126][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.15-18.51.41:127][156]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_343
+[2025.12.15-18.51.41:128][156]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_343
+[2025.12.15-18.55.56:764][435]Cmd: TRANSACTION UNDO
+[2025.12.15-18.55.56:764][435]LogEditorTransaction: Undo Move Elements
+[2025.12.15-18.56.00:244][794]Cmd: TRANSACTION UNDO
+[2025.12.15-18.56.00:244][794]LogEditorTransaction: Undo Move Elements
+[2025.12.15-18.56.09:390][854]Cmd: TRANSACTION UNDO
+[2025.12.15-18.56.09:390][854]LogEditorTransaction: Undo Move Elements
+[2025.12.15-18.56.46:765][189]Cmd: TRANSACTION UNDO
+[2025.12.15-18.56.46:765][189]LogEditorTransaction: Undo Move Elements
+[2025.12.15-18.57.05:462][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-18.57.05:501][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-18.57.05:548][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.15-18.57.05:570][336]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.15-18.57.05:570][336]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut1C609C3B42BAF31F498F2C8870F5203E.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.15-18.57.05:588][336]LogFileHelpers: Saving map 'BlockOut' took 0.087
+[2025.12.15-18.57.05:608][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.629 ms (total: 660.875 ms)
+[2025.12.15-18.57.05:631][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-18.57.05:631][336]LogContentValidation: Enabled validators:
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-18.57.05:631][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-18.57.05:631][336]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.15-18.57.12:209][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13202.134766
+[2025.12.15-18.57.12:334][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-18.57.12:334][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13202.251953, Update Interval: 358.989227
+[2025.12.15-18.58.09:201][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-18.58.09:233][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-18.58.09:275][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.15-18.58.09:296][919]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.15-18.58.09:297][919]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut9556D910496A91ADD4CCF0B061FE7F04.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.15-18.58.09:314][919]LogFileHelpers: Saving map 'BlockOut' took 0.081
+[2025.12.15-18.58.09:323][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.642 ms (total: 782.518 ms)
+[2025.12.15-18.58.09:348][919]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-18.58.09:348][919]LogContentValidation: Enabled validators:
+[2025.12.15-18.58.09:348][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-18.58.09:348][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-18.58.09:348][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-18.58.09:349][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-18.58.09:349][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-18.58.09:349][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-18.58.09:349][919]AssetCheck: /Game/BlockOut Validating asset
