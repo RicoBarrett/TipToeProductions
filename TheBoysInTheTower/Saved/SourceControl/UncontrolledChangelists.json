@@ -14,7 +14,10 @@
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Inventory/Items/DT_InventoryItemData.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Main_Menu.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/MainMenu.umap",
-				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Main_Menu_GameMode.uasset"
+				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Main_Menu_GameMode.uasset",
+				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Main_Menu/Main_Menu.uasset",
+				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Main_Menu/Main_Menu_GameMode.uasset",
+				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Camera/Main_Menu_Camera.uasset"
 			]
 		}
 	]
