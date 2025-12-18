@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Bread_BP.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Inventory/Items/BP_ItemBread.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/SaveRoomTest.umap",
