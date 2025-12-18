@@ -1857,3 +1857,207 @@ D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/Crouching.umap app
 [2025.12.18-17.51.39:272][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2467.821777
 [2025.12.18-17.51.40:268][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.18-17.51.40:268][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2468.486328, Update Interval: 336.340210
+[2025.12.18-17.54.45:901][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.18-17.54.45:902][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.18-17.54.45:902][918]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_18
+[2025.12.18-17.54.45:903][918]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_18
+[2025.12.18-17.54.48:274][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.18-17.54.48:276][199]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.12.18-17.54.48:281][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.18-17.54.48:281][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.12.18-17.54.48:282][199]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_27
+[2025.12.18-17.54.48:283][199]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_27
+[2025.12.18-17.55.59:613][545]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-17.55.59:782][545]LogStaticMesh: Display: Building static mesh CowColumn_Ex (Required Memory Estimate: 1.44016 MB)...
+[2025.12.18-17.55.59:801][545]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/City_of_Brass_Props/Meshes/CowColumn_Ex) ...
+[2025.12.18-17.55.59:833][545]LogStaticMesh: Built static mesh [0.05s] /Game/City_of_Brass_Props/Meshes/CowColumn_Ex.CowColumn_Ex
+[2025.12.18-17.55.59:878][547]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/CowColumn_M.CowColumn_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-17.55.59:935][547]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/CowColumn_D.CowColumn_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-17.55.59:964][550]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/CowColumn_N.CowColumn_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.12.18-17.56.05:362][177]Cmd: TRANSACTION UNDO
+[2025.12.18-17.56.05:362][177]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.18-17.56.28:854][706]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-17.57.58:742][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2847.266602
+[2025.12.18-17.57.59:742][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-17.57.59:742][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2847.934082, Update Interval: 322.584930
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: ================================================
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: Total job queries 192, among them cache hits 24 (12.50%), DDC hits 138 (71.88%), Duplicates 4 (2.08%)
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: Tracking 164 distinct input hashes that result in 151 distinct outputs (92.07%)
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: RAM used: 119.13 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.12.18-17.58.38:973][330]LogShaderCompilers: Display: Average time worker was idle: 768.77 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 2.50 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 2.59
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Shader code size: average 8.379 KiB, min 2.934 KiB, max 26.914 KiB
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.34 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Average processing rate: 3.12 jobs/sec
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Total thread time: 13.926 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Total thread preprocess time: 2.832 s
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Percentage time preprocessing: 20.33%
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.63 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.12% of total time (compiled    4 times, average 0.63 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.29% of total time (compiled    5 times, average 0.45 sec, max 0.68 sec, min 0.38 sec)
+[2025.12.18-17.58.38:974][330]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.96% of total time (compiled    5 times, average 0.42 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.91% of total time (compiled    5 times, average 0.42 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.79% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Materials Translated:    133
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Material Translation Only: 0.07 s (54%)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: Material Cache Hits: 22 (17%)
+[2025.12.18-17.58.38:975][330]LogShaderCompilers: Display: ================================================
+[2025.12.18-17.59.06:033][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-17.59.06:033][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-17.59.06:034][135]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_29
+[2025.12.18-17.59.06:034][135]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_29
+[2025.12.18-17.59.08:153][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.18-17.59.08:156][381]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.12.18-17.59.08:160][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-17.59.08:160][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-17.59.08:161][381]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_38
+[2025.12.18-17.59.08:162][381]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_38
+[2025.12.18-18.00.34:033][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-18.00.34:033][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-18.00.34:033][428]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_39
+[2025.12.18-18.00.34:034][428]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_39
+[2025.12.18-18.00.35:357][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.12.18-18.00.35:359][584]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2025.12.18-18.00.35:363][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-18.00.35:363][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.18-18.00.35:365][584]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_42
+[2025.12.18-18.00.35:365][584]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BlockOut.BlockOut:PersistentLevel.StaticMeshActor_42
+[2025.12.18-18.00.48:398][ 54]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.00.48:478][ 54]LogStaticMesh: Display: Building static mesh Carpet_Hall_Ex (Required Memory Estimate: 2.940568 MB)...
+[2025.12.18-18.00.48:485][ 54]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex) ...
+[2025.12.18-18.00.48:505][ 54]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_LOW_03_-_Default_OcclusionRoughnessMetallic.Carpet_Hall_LOW_03_-_Default_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-18.00.48:511][ 54]LogStaticMesh: Built static mesh [0.04s] /Game/City_of_Brass_Props/Meshes/Carpet_Hall_Ex.Carpet_Hall_Ex
+[2025.12.18-18.00.48:525][ 54]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_LOW_03_-_Default_Normal.Carpet_Hall_LOW_03_-_Default_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.12.18-18.00.48:566][ 59]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Carpet_Hall_Red_D.Carpet_Hall_Red_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-18.00.50:449][277]Cmd: TRANSACTION UNDO
+[2025.12.18-18.00.50:450][277]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.18-18.01.42:463][ 77]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.01.42:833][ 77]LogStaticMesh: Display: Building static mesh Simple_LongTable02_Busted (Required Memory Estimate: 0.360202 MB)...
+[2025.12.18-18.01.42:842][ 77]LogStaticMesh: Built static mesh [0.01s] /Game/City_of_Brass_Props/Meshes/Simple_LongTable02_Busted.Simple_LongTable02_Busted
+[2025.12.18-18.01.42:879][ 79]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Simple_LongTable02_M.Simple_LongTable02_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-18.01.42:887][ 79]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Simple_LongTable02_D.Simple_LongTable02_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.12.18-18.01.42:900][ 79]LogTexture: Display: Building textures: /Game/City_of_Brass_Props/Textures/Simple_LongTable02_N.Simple_LongTable02_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.12.18-18.01.48:386][726]Cmd: TRANSACTION UNDO
+[2025.12.18-18.01.48:386][726]LogEditorTransaction: Undo Edit Static Mesh
+[2025.12.18-18.02.04:414][532]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.02.04:630][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/Shared/Textures/TX_Fill_01_NRM.TX_Fill_01_NRM (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 5.62493 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.04:631][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/Shared/Textures/TX_Fill_01_ALB.TX_Fill_01_ALB (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.864554 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.04:632][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/Shared/Textures/TX_Fill_01_RMA.TX_Fill_01_RMA (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.864554 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.04:634][532]LogStaticMesh: Display: Building static mesh SM_Crate_01a (Required Memory Estimate: 8.155053 MB)...
+[2025.12.18-18.02.04:651][532]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/OldWest/VOL5/Meshes/SM_Crate_01a) ...
+[2025.12.18-18.02.04:810][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/VOL5/Textures/TX_Crate_01a_RMA.TX_Crate_01a_RMA (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.05:064][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/VOL5/Textures/TX_Crate_01a_ALB.TX_Crate_01a_ALB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.05:292][532]LogTexture: Display: Building textures: /Game/Assets/OldWest/VOL5/Textures/TX_Crate_01a_NRM.TX_Crate_01a_NRM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.18-18.02.05:545][532]LogStaticMesh: Built static mesh [0.91s] /Game/Assets/OldWest/VOL5/Meshes/SM_Crate_01a.SM_Crate_01a
+[2025.12.18-18.02.26:246][949]Cmd: TRANSACTION UNDO
+[2025.12.18-18.02.26:246][949]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.04.10:880][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3219.390869
+[2025.12.18-18.04.11:021][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.04.11:021][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.524414, Update Interval: 329.248322
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Total job queries 196, among them cache hits 24 (12.24%), DDC hits 138 (70.41%), Duplicates 4 (2.04%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 153 distinct outputs (91.07%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: RAM used: 119.76 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Shaders Compiled: 30
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Average time worker was idle: 689.79 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Job execution time: average 1.36 s, max 2.50 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 2.59
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Shader code size: average 8.27 KiB, min 2.934 KiB, max 26.914 KiB
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.76 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Average processing rate: 3.07 jobs/sec
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Total thread time: 15.625 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Total thread preprocess time: 2.889 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Percentage time preprocessing: 18.49%
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.62 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.71% of total time (compiled    5 times, average 0.62 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.06% of total time (compiled    6 times, average 0.44 sec, max 0.68 sec, min 0.38 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.74% of total time (compiled    6 times, average 0.41 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.65% of total time (compiled    6 times, average 0.41 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.05% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Materials Translated:    134
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Material Translation Only: 0.07 s (54%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: Material Cache Hits: 22 (16%)
+[2025.12.18-18.04.38:985][499]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.05.51:958][147]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.51:958][147]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.05.52:234][153]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.52:234][153]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.05.52:553][166]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.52:553][166]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.05.52:974][208]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.52:974][208]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.05.53:530][273]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.53:530][273]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.05.54:086][338]Cmd: TRANSACTION UNDO
+[2025.12.18-18.05.54:086][338]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.10.12:481][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3580.953857
+[2025.12.18-18.10.12:627][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.10.12:627][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3581.091553, Update Interval: 349.555359
+[2025.12.18-18.11.22:871][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor_C
+[2025.12.18-18.11.22:871][337]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor_C
+[2025.12.18-18.11.22:872][337]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor as actor: BP_CameraActor_C /Game/BlockOut.BlockOut:PersistentLevel.BP_CameraActor_C_44
+[2025.12.18-18.11.22:872][337]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor as actor: BP_CameraActor_C /Game/BlockOut.BlockOut:PersistentLevel.BP_CameraActor_C_44
+[2025.12.18-18.11.25:672][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.18-18.11.25:674][669]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.12.18-18.11.25:679][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor_C
+[2025.12.18-18.11.25:679][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor_C
+[2025.12.18-18.11.25:681][669]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor as actor: BP_CameraActor_C /Game/BlockOut.BlockOut:PersistentLevel.BP_CameraActor_C_45
+[2025.12.18-18.11.25:681][669]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/BP_CameraActor.BP_CameraActor as actor: BP_CameraActor_C /Game/BlockOut.BlockOut:PersistentLevel.BP_CameraActor_C_45
+[2025.12.18-18.11.40:934][349]LogDerivedDataCache: C:/Users/Phil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.18-18.14.09:592][695]Cmd: TRANSACTION UNDO
+[2025.12.18-18.14.09:593][695]LogEditorTransaction: Undo Move Elements
+[2025.12.18-18.16.39:917][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3968.379395
+[2025.12.18-18.16.40:050][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.16.40:050][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3968.505371, Update Interval: 350.809662
+[2025.12.18-18.19.19:565][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-18.19.19:596][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.18-18.19.19:652][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.18-18.19.19:690][198]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.18-18.19.19:690][198]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut4BF8A3954F30F155A86E2E86730A644B.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.18-18.19.19:709][198]LogFileHelpers: Saving map 'BlockOut' took 0.113
+[2025.12.18-18.19.19:728][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.309 ms (total: 516.869 ms)
+[2025.12.18-18.19.19:763][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-18.19.19:763][198]LogContentValidation: Enabled validators:
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-18.19.19:763][198]AssetCheck: /Game/BlockOut Validating asset
