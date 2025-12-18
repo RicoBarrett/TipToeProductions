@@ -2061,3 +2061,387 @@ D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/Crouching.umap app
 [2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.18-18.19.19:763][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.18-18.19.19:763][198]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.18-18.23.08:173][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4356.601074
+[2025.12.18-18.23.08:324][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.23.08:324][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4356.741211, Update Interval: 308.547638
+[2025.12.18-18.28.55:929][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4703.726562
+[2025.12.18-18.28.56:070][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.28.56:070][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4703.859375, Update Interval: 345.563538
+[2025.12.18-18.31.02:464][280]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.18-18.31.02:473][280]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.18-18.31.02:477][280]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.18-18.31.02:496][282]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.18-18.31.08:559][998]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2025.12.18-18.31.08:590][998]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.18-18.31.18:751][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door
+[2025.12.18-18.31.18:752][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.18-18.31.18:890][214]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.31.21:290][214]LogStreaming: Display: FlushAsyncLoading(707): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Total job queries 200, among them cache hits 26 (13.00%), DDC hits 138 (69.00%), Duplicates 4 (2.00%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 154 distinct outputs (90.59%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: RAM used: 120.08 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Shaders Compiled: 32
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Average time worker was idle: 778.51 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 2.50 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 2.59
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Shader code size: average 8.219 KiB, min 2.934 KiB, max 26.914 KiB
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.30 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Total thread time: 16.511 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Total thread preprocess time: 2.953 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Percentage time preprocessing: 17.88%
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Effective parallelization: 1.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.61 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.99% of total time (compiled    6 times, average 0.61 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.84% of total time (compiled    7 times, average 0.40 sec, max 0.51 sec, min 0.33 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.14% of total time (compiled    6 times, average 0.44 sec, max 0.68 sec, min 0.38 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.89% of total time (compiled    6 times, average 0.41 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.73% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Materials Translated:    137
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Material Translation Only: 0.07 s (52%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: Material Cache Hits: 22 (16%)
+[2025.12.18-18.31.39:207][875]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.31.43:480][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.18-18.31.43:481][290]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockOut' took 0.031
+[2025.12.18-18.31.43:481][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-18.31.43:481][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-18.31.43:485][290]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/BP_Door_Auto2
+[2025.12.18-18.31.43:485][290]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door_Auto230FC4F5A43B01E7369DEF086D2FFC697.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Blueprints/Doors/BP_Door_Auto2.uasset'
+[2025.12.18-18.31.43:486][290]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.12.18-18.33.31:369][972]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.18-18.33.31:421][972]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.18-18.33.52:710][936]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-18.33.52:725][936]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-18.33.52:725][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-18.33.52:790][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.18-18.34.01:745][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP_Door.BP_Door_C
+[2025.12.18-18.34.01:745][995]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP_Door.BP_Door_C
+[2025.12.18-18.34.01:747][995]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door as actor: BP_Door_C /Game/BlockOut.BlockOut:PersistentLevel.BP_Door_C_0
+[2025.12.18-18.34.01:748][995]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door as actor: BP_Door_C /Game/BlockOut.BlockOut:PersistentLevel.BP_Door_C_0
+[2025.12.18-18.34.04:091][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.18-18.34.04:091][270]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.12.18-18.34.04:097][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP_Door.BP_Door_C
+[2025.12.18-18.34.04:097][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Doors/BP_Door.BP_Door_C
+[2025.12.18-18.34.04:099][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door as actor: BP_Door_C /Game/BlockOut.BlockOut:PersistentLevel.BP_Door_C_1
+[2025.12.18-18.34.04:100][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door as actor: BP_Door_C /Game/BlockOut.BlockOut:PersistentLevel.BP_Door_C_1
+[2025.12.18-18.34.34:092][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door
+[2025.12.18-18.34.34:092][799]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.18-18.34.34:450][799]LogSlate: Took 0.008343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Total job queries 206, among them cache hits 28 (13.59%), DDC hits 138 (66.99%), Duplicates 4 (1.94%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 156 distinct outputs (89.66%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: RAM used: 120.73 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Shaders Compiled: 36
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Average time worker was idle: 811.00 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Job execution time: average 1.41 s, max 2.50 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Job life time (pending + execution): average 1.49 s, max 2.59
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Shader code size: average 8.181 KiB, min 2.934 KiB, max 26.914 KiB
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.93 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Total thread time: 18.707 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Total thread preprocess time: 3.032 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Percentage time preprocessing: 16.21%
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Effective parallelization: 1.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.62 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.31% of total time (compiled    7 times, average 0.62 sec, max 0.85 sec, min 0.50 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.29% of total time (compiled    7 times, average 0.46 sec, max 0.68 sec, min 0.38 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.27% of total time (compiled    8 times, average 0.40 sec, max 0.51 sec, min 0.33 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.54% of total time (compiled    7 times, average 0.42 sec, max 0.51 sec, min 0.34 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.06% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: === Material stats ===
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Materials Translated:    139
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Material Translation Only: 0.07 s (50%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: Material Cache Hits: 22 (16%)
+[2025.12.18-18.34.39:207][205]LogShaderCompilers: Display: ================================================
+[2025.12.18-18.34.51:171][312]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-18.35.27:340][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5094.937500
+[2025.12.18-18.35.27:487][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.35.27:487][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5095.072754, Update Interval: 348.561035
+[2025.12.18-18.41.43:613][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.18-18.41.43:615][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.18-18.41.43:646][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockOut_Auto3
+[2025.12.18-18.41.43:646][818]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut_Auto3932466B541CD6654B6808ABC4FF7FE92.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto3.umap'
+[2025.12.18-18.41.43:647][818]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockOut' took 0.066
+[2025.12.18-18.41.43:647][818]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2025.12.18-18.41.43:647][818]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-18.41.43:660][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door]
+[2025.12.18-18.41.43:660][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-18.41.43:666][818]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/BP_Door_Auto3
+[2025.12.18-18.41.43:666][818]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door_Auto3618A33004D153692251CEC82A01A0727.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Blueprints/Doors/BP_Door_Auto3.uasset'
+[2025.12.18-18.41.43:666][818]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.12.18-18.42.00:559][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5488.068848
+[2025.12.18-18.42.00:700][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.42.00:700][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5488.200684, Update Interval: 347.401947
+[2025.12.18-18.48.46:932][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5894.329102
+[2025.12.18-18.48.47:933][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.48.47:933][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5895.003418, Update Interval: 351.142914
+[2025.12.18-18.50.12:683][829]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-18.50.12:689][829]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-18.50.12:698][829]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-18.50.12:698][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-18.50.12:764][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.18-18.54.49:292][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door
+[2025.12.18-18.54.49:292][ 24]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.18-18.55.09:902][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6277.252930
+[2025.12.18-18.55.10:032][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-18.55.10:032][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6277.370117, Update Interval: 339.178436
+[2025.12.18-18.56.48:335][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.18-18.56.48:336][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.18-18.56.48:368][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockOut_Auto4
+[2025.12.18-18.56.48:368][532]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut_Auto49599530547C760FE0D5BDEA3BBA3DA4E.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto4.umap'
+[2025.12.18-18.56.48:369][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockOut' took 0.069
+[2025.12.18-18.56.48:369][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2025.12.18-18.56.48:369][532]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-18.56.48:426][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door]
+[2025.12.18-18.56.48:426][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-18.56.48:429][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/BP_Door_Auto4
+[2025.12.18-18.56.48:429][532]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door_Auto400B627A3482F93762D9226A1C7FA3C80.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Blueprints/Doors/BP_Door_Auto4.uasset'
+[2025.12.18-18.56.48:429][532]LogFileHelpers: Auto-saving content packages took 0.060
+[2025.12.18-19.00.53:718][253]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.18-19.00.53:737][253]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2025.12.18-19.00.53:800][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.18-19.00.53:801][253]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2025.12.18-19.00.53:812][253]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.12.18-19.00.53:813][253]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.12.18-19.00.53:815][253]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlockOut
+[2025.12.18-19.00.53:829][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013204s)
+[2025.12.18-19.00.53:829][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockOut.BlockOut to /Game/UEDPIE_0_BlockOut.BlockOut (0.013270s)
+[2025.12.18-19.00.53:845][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.18-19.00.53:847][253]LogChaosDD: Creating Chaos Debug Draw Scene for world BlockOut
+[2025.12.18-19.00.53:849][253]LogPlayLevel: PIE: World Init took: (0.002177s)
+[2025.12.18-19.00.53:850][253]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.18-19.00.53:850][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.18-19.00.53:850][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.18-19.00.53:850][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.18-19.00.53:850][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.18-19.00.53:850][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.18-19.00.53:852][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.18-19.00.53:878][253]LogAudioMixer: Display: Using Audio Hardware Device HD60 X (NVIDIA High Definition Audio)
+[2025.12.18-19.00.53:879][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.18-19.00.53:879][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.18-19.00.53:879][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.18-19.00.53:881][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.18-19.00.53:881][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.18-19.00.53:883][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.18-19.00.53:883][253]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.18-19.00.53:883][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.18-19.00.53:883][253]LogAudio: Display: Audio Device (ID: 2) registered with world 'BlockOut'.
+[2025.12.18-19.00.53:883][253]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.18-19.00.53:884][253]LogWindows: WindowsPlatformFeatures enabled
+[2025.12.18-19.00.54:180][253]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.18-19.00.54:190][253]LogLoad: Game class is 'GameModeBase'
+[2025.12.18-19.00.54:197][253]LogWorld: Bringing World /Game/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2025.12.18-19.00.54
+[2025.12.18-19.00.54:197][253]LogWorld: Bringing up level for play took: 0.006719
+[2025.12.18-19.00.54:200][253]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.12.18-19.00.54:229][253]PIE: Server logged in
+[2025.12.18-19.00.54:230][253]PIE: Play in editor total start time 0.499 seconds.
+[2025.12.18-19.00.54:474][255]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.18-19.01.18:958][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-19.01.18:958][166]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlockOut
+[2025.12.18-19.01.18:958][166]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.01.18:960][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.01.18:965][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.18-19.01.18:970][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.01.18:986][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.18-19.01.18:986][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.18-19.01.18:988][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.12.18-19.01.18:991][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.12.18-19.01.18:996][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.18-19.01.19:001][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.18-19.01.19:054][167]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.12.18-19.01.45:002][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6672.336914
+[2025.12.18-19.01.45:149][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-19.01.45:149][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6672.474121, Update Interval: 310.118713
+[2025.12.18-19.06.46:231][ 52]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2025.12.18-19.07.26:250][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7013.487305
+[2025.12.18-19.07.26:388][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-19.07.26:388][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7013.616211, Update Interval: 337.069000
+[2025.12.18-19.08.15:046][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.18-19.08.15:048][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.18-19.08.15:080][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockOut_Auto5
+[2025.12.18-19.08.15:080][583]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut_Auto54FED7C5C4F8EE3F77C71268DBCF5394E.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto5.umap'
+[2025.12.18-19.08.15:083][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockOut' took 0.057
+[2025.12.18-19.08.15:083][583]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.12.18-19.08.15:083][583]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-19.08.15:139][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door]
+[2025.12.18-19.08.15:139][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-19.08.15:143][583]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/BP_Door_Auto5
+[2025.12.18-19.08.15:144][583]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door_Auto5496F0B5A40C62715244BDA9445F0932B.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Blueprints/Doors/BP_Door_Auto5.uasset'
+[2025.12.18-19.08.15:144][583]LogFileHelpers: Auto-saving content packages took 0.061
+[2025.12.18-19.10.14:946][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.18-19.11.24:349][668]LogSlate: Took 0.006908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.18-19.11.40:932][987]LogDerivedDataCache: C:/Users/Phil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.18-19.11.59:294][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.18-19.13.39:284][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7386.545898
+[2025.12.18-19.13.39:428][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-19.13.39:428][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7386.675781, Update Interval: 325.251007
+[2025.12.18-19.16.53:715][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.18-19.18.15:479][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.18-19.18.15:481][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.12.18-19.18.15:514][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockOut_Auto6
+[2025.12.18-19.18.15:514][105]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut_Auto63F3D832E47B7E538E964999C95833720.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/BlockOut_Auto6.umap'
+[2025.12.18-19.18.15:516][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockOut' took 0.056
+[2025.12.18-19.18.15:516][105]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.12.18-19.18.15:516][105]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-19.18.15:619][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Doors/BP_Door.BP_Door]
+[2025.12.18-19.18.15:619][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-19.18.15:625][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Doors/BP_Door_Auto6
+[2025.12.18-19.18.15:625][105]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door_Auto6530BFF224BE59C09965712B9CBB8BECD.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Blueprints/Doors/BP_Door_Auto6.uasset'
+[2025.12.18-19.18.15:626][105]LogFileHelpers: Auto-saving content packages took 0.111
+[2025.12.18-19.18.19:344][193]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-19.18.19:350][193]LogSlate: Window 'BP_Door' being destroyed
+[2025.12.18-19.18.19:358][193]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.18.19:358][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.18.19:425][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.18-19.18.21:174][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-19.18.21:198][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockOut" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.18-19.18.21:252][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.18-19.18.21:285][401]LogSavePackage: Moving output files for package: /Game/BlockOut
+[2025.12.18-19.18.21:285][401]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BlockOut82CE946E4E980BE1ABD1F39D3B836D6C.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap'
+[2025.12.18-19.18.21:304][401]LogFileHelpers: Saving map 'BlockOut' took 0.106
+[2025.12.18-19.18.21:313][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.623 ms (total: 656.492 ms)
+[2025.12.18-19.18.21:350][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-19.18.21:350][401]LogContentValidation: Enabled validators:
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-19.18.21:350][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-19.18.21:350][401]AssetCheck: /Game/BlockOut Validating asset
+[2025.12.18-19.18.22:766][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.18-19.18.27:260][567]LogSlate: Window 'Save Content' being destroyed
+[2025.12.18-19.18.27:268][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.18-19.18.27:302][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Doors/BP_Door] ([2] browsable assets)...
+[2025.12.18-19.18.27:302][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Doors/BP_Door]
+[2025.12.18-19.18.27:302][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/BP_Door" FILE="D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Doors/BP_Door.uasset" SILENT=true
+[2025.12.18-19.18.27:307][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Doors/BP_Door
+[2025.12.18-19.18.27:307][567]LogSavePackage: Moving 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Saved/BP_Door88D0DB7043BFBEE05DDA38B7022C3EA2.tmp' to 'D:/Unity Projects/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Doors/BP_Door.uasset'
+[2025.12.18-19.18.27:316][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.462 ms (total: 703.954 ms)
+[2025.12.18-19.18.27:406][567]LogStall: Shutdown...
+[2025.12.18-19.18.27:406][567]LogStall: Shutdown complete.
+[2025.12.18-19.18.27:482][567]LogSlate: Window 'TheBoysInTheTower - Unreal Editor' being destroyed
+[2025.12.18-19.18.27:594][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.18-19.18.27:594][567]LogContentValidation: Enabled validators:
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.18-19.18.27:594][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.18-19.18.27:594][567]AssetCheck: /Game/Blueprints/Doors/BP_Door Validating asset
+[2025.12.18-19.18.27:596][567]Cmd: QUIT_EDITOR
+[2025.12.18-19.18.27:596][567]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.18-19.18.27:607][568]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.18-19.18.27:608][568]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.18-19.18.27:608][568]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.18-19.18.27:612][568]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.18.27:613][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.18.27:634][568]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.18-19.18.27:638][568]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.18-19.18.27:644][568]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.18.27:644][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.18.27:649][568]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.18.27:649][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.18.27:655][568]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.18-19.18.27:655][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.18-19.18.27:662][568]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.18-19.18.27:666][568]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.18-19.18.27:667][568]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.18-19.18.27:667][568]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.18-19.18.27:968][568]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.18-19.18.27:968][568]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.18-19.18.27:968][568]LogAudio: Display: Audio Device unregistered from world 'BlockOut'.
+[2025.12.18-19.18.27:968][568]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.18-19.18.27:968][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.18-19.18.27:971][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.18-19.18.27:986][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.18-19.18.27:986][568]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.18-19.18.27:987][568]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.12.18-19.18.27:990][568]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.18-19.18.27:990][568]LogExit: Preparing to exit.
+[2025.12.18-19.18.28:031][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.18-19.18.28:036][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:036][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:038][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:039][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:039][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:039][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:039][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:040][568]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.18-19.18.28:642][568]LogEditorDataStorage: Deinitializing
+[2025.12.18-19.18.28:821][568]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.18-19.18.28:885][568]LogExit: Editor shut down
+[2025.12.18-19.18.28:897][568]LogExit: Transaction tracking system shut down
+[2025.12.18-19.18.29:245][568]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 4.
+[2025.12.18-19.18.29:272][568]LogExit: Object subsystem successfully closed.
+[2025.12.18-19.18.29:374][568]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.18-19.18.29:802][568]LogMemoryProfiler: Shutdown
+[2025.12.18-19.18.29:803][568]LogNetworkingProfiler: Shutdown
+[2025.12.18-19.18.29:804][568]LoadingProfiler: Shutdown
+[2025.12.18-19.18.29:804][568]LogTimingProfiler: Shutdown
+[2025.12.18-19.18.30:278][568]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.18-19.18.30:279][568]RenderDocPlugin: plugin has been unloaded.
+[2025.12.18-19.18.30:313][568]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.18-19.18.30:313][568]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4022D2DB-47BE-F0E6-0229-0AAE82C8CDAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=6c5957164a0e8ad2a8cc5590211be6f0%7Ca073ba27f1c24a1396d97f386faf3fec%7C488082fa-5f26-46db-b2ae-5e23f855739f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.18-19.18.30:870][568]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.18-19.18.30:875][568]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.18-19.18.30:875][568]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.18-19.18.30:881][568]LogXGEController: Cleaning working directory: C:/Users/Phil/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.18-19.18.30:888][568]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.18-19.18.30:888][568]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.18-19.18.30:888][568]LogPakFile: Destroying PakPlatformFile
+[2025.12.18-19.18.31:300][568]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.18-19.18.31:344][568]LogExit: Exiting.
+[2025.12.18-19.18.31:403][568]Log file closed, 12/18/25 19:18:31
