@@ -1,2 +1,3 @@
-2025/12/16-01:46:46.556 5230 Creating DB C:/The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/12/16-01:46:46.563 5230 Reusing MANIFEST C:/The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/12/15-22:44:23.469 3f48 Reusing MANIFEST C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/12/15-22:44:23.471 3f48 Recovering log #3
+2025/12/15-22:44:23.473 3f48 Reusing old log C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Saved/webcache_4430\Local Storage\leveldb/000003.log 
