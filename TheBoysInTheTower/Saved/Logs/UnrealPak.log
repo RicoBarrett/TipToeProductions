@@ -1,27 +1,27 @@
-﻿Log file open, 12/18/25 22:42:33
+﻿Log file open, 12/19/25 15:30:15
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-5594E4414844ACB7C14CFE83D0CB2442
+         Session CrashGUID >   UECC-Windows-5D4E0F3C40FEFB0EC8772581AFC2C60F
          Session CrashGUID >====================================================
-LogConfig: No local boot hotfix file found at: [C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogConfig: No local boot hotfix file found at: [G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogInit: ExecutableName: UnrealPak.exe
 LogInit: Build: ++UE5+Release-5.5-CL-40574608
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=aa0d8cf94268c0706269718d021b017d
+LogInit: MachineId=4a082c074e58442b4c57b9ad2e6fdf64
 LogInit: DeviceId=
 LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
-LogInit: OS: Windows 11 (24H2) [10.0.26100.7462] (), CPU: AMD Ryzen 7 5700X 8-Core Processor             , GPU: AMD Radeon RX 7600 XT
+LogInit: OS: Windows 11 (24H2) [10.0.26100.7462] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3080
 LogInit: Compiled (64-bit): Mar  7 2025 14:59:45
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.5
-LogInit: Command Line: -CreateGlobalContainer="C:\Users\Rico Barrett\Desktop\Build\Windows\TheBoysInTheTower\Content\Paks\global.utoc" -PackageStoreManifest="C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\packagestore.manifest" -CookedDirectory="C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows" -Commands="C:\Users\Rico Barrett\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_5.5\IoStoreCommands.txt" -ScriptObjects="C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken -cryptokeys="C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -nopak
-LogInit: Base Directory: D:/UE_5.5/Engine/Binaries/Win64/
+LogInit: Command Line: -CreateGlobalContainer=G:\st20300362\BuildFix\Windows\TheBoysInTheTower\Content\Paks\global.utoc -PackageStoreManifest="G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\packagestore.manifest" -CookedDirectory="G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows" -Commands="C:\Users\st20270436\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+data+UE_5.5\IoStoreCommands.txt" -ScriptObjects="G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken -cryptokeys="G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -nopak
+LogInit: Base Directory: C:/data/UE_5.5/Engine/Binaries/Win64/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
 LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
@@ -61,7 +61,7 @@ LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
 LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
-LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.86ms
 LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
 LogInit: Object subsystem initialized
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
@@ -69,157 +69,158 @@ LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
 LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
 LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
 LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
-LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
-LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
-[2025.12.18-22.42.33:415][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2025.12.18-22.42.33:415][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
-[2025.12.18-22.42.33:415][  0]LogInit: Computer: PAPALYMO-TOTOLY
-[2025.12.18-22.42.33:415][  0]LogInit: User: RicoBarrett
-[2025.12.18-22.42.33:415][  0]LogInit: CPU Page size=4096, Cores=8
-[2025.12.18-22.42.33:415][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2025.12.18-22.42.33:818][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2025.12.18-22.42.33:818][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx) Virtual=52.8GB
-[2025.12.18-22.42.33:818][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2025.12.18-22.42.33:818][  0]LogMemory: Process Physical Memory: 60.91 MB used, 61.69 MB peak
-[2025.12.18-22.42.33:818][  0]LogMemory: Process Virtual Memory: 123.46 MB used, 123.46 MB peak
-[2025.12.18-22.42.33:818][  0]LogMemory: Physical Memory: 15055.84 MB used,  17638.20 MB free, 32694.04 MB total
-[2025.12.18-22.42.33:818][  0]LogMemory: Virtual Memory: 30376.44 MB used,  23683.60 MB free, 54060.04 MB total
-[2025.12.18-22.42.33:821][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
-[2025.12.18-22.42.33:822][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
-[2025.12.18-22.42.33:822][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2025.12.18-22.42.33:822][  0]LogInit: Using OS detected language ().
-[2025.12.18-22.42.33:822][  0]LogInit: Using OS detected locale ().
-[2025.12.18-22.42.33:882][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.12.18-22.42.33:883][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.12.18-22.42.33:883][  0]LogInit: Using OS detected language ().
-[2025.12.18-22.42.33:883][  0]LogInit: Using OS detected locale ().
-[2025.12.18-22.42.33:883][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.12.18-22.42.33:883][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.12.18-22.42.33:883][  0]LogPakFile: Display: ProjectDir: C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/
-[2025.12.18-22.42.33:895][  0]LogIoStore: Display: ==================== IoStore Utils ====================
-[2025.12.18-22.42.33:897][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\Crypto.json'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Container signing - DISABLED
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Directory index - ENABLED
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using compression format 'Oodle'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using memory mapping alignment '16384'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using compression block size '65536'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using compression block alignment '2048'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using compression min bytes saved '1024'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using compression min percent saved '5'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using max partition size '0'
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Not using DDC for compression
-[2025.12.18-22.42.33:905][  0]LogIoStore: Display: Using command list file: 'C:\Users\Rico Barrett\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_5.5\IoStoreCommands.txt'
-[2025.12.18-22.42.33:957][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
-[2025.12.18-22.42.33:984][  0]LogIoStore: Display: Fetched 680 oplog items from Manifest in 0.03 seconds
-[2025.12.18-22.42.34:023][  0]LogIoStore: Display: Parsed 680 oplog items 0.04 seconds, 855 chunks
-[2025.12.18-22.42.34:033][  0]LogIoStore: Display: Using input asset registry: C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Saved/Cooked/Windows/TheBoysInTheTower/Metadata/DevelopmentAssetRegistry.bin
-[2025.12.18-22.42.34:257][  0]LogIoStore: Display: Loaded 182 chunk hashes from AssetRegistry in 0.23 seconds, 182 hashes updated in 0.00 seconds
-[2025.12.18-22.42.34:274][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Rico Barrett\Desktop\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows'
-[2025.12.18-22.42.34:298][  0]LogIoStore: Display: Found '1536' files
-[2025.12.18-22.42.34:308][  0]LogIoStore: Display: Creating container targets...
-[2025.12.18-22.42.34:311][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
-[2025.12.18-22.42.34:348][  0]LogIoStore: Display: Parsing packages...
-[2025.12.18-22.42.34:361][  0]LogIoStore: Display: Reading package assets...
-[2025.12.18-22.42.34:379][  0]LogIoStore: Display: Packages read 673 files in 0.02 seconds, 1,119,014 total bytes, 67,292,517 bytes per second
-[2025.12.18-22.42.34:386][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
-[2025.12.18-22.42.34:465][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 351 groups (131 of them didn't need new indices), average uncompressed size 164581 bytes, min 249 bytes, max 1042473 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.12.18-22.42.34:563][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4015 shaders as 351 groups. Library size changed from 12977 KB (4.35 : 1 ratio) to 5502 KB (10.25 : 1 ratio), 42.40% of previous.
-[2025.12.18-22.42.34:695][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 415 groups (140 of them didn't need new indices), average uncompressed size 189615 bytes, min 1249 bytes, max 1022562 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.12.18-22.42.35:055][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 5446 shaders as 415 groups. Library size changed from 58476 KB (1.31 : 1 ratio) to 33073 KB (2.32 : 1 ratio), 56.56% of previous.
-[2025.12.18-22.42.35:062][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 195 groups (61 of them didn't need new indices), average uncompressed size 213491 bytes, min 325 bytes, max 1039310 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.12.18-22.42.35:113][  0]LogIoStore: Display: TheBoysInTheTower-PCD3D_SM5(PCD3D_SM5): Recompressed 1705 shaders as 195 groups. Library size changed from 10197 KB (3.99 : 1 ratio) to 4046 KB (10.05 : 1 ratio), 39.68% of previous.
-[2025.12.18-22.42.35:126][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 200 groups (60 of them didn't need new indices), average uncompressed size 208122 bytes, min 2342 bytes, max 995449 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.12.18-22.42.35:296][  0]LogIoStore: Display: TheBoysInTheTower-PCD3D_SM6(PCD3D_SM6): Recompressed 2276 shaders as 200 groups. Library size changed from 30920 KB (1.31 : 1 ratio) to 19364 KB (2.10 : 1 ratio), 62.63% of previous.
-[2025.12.18-22.42.35:317][  0]LogIoStore: Display: Shaders processed in 0.93 seconds
-[2025.12.18-22.42.35:317][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
-[2025.12.18-22.42.35:319][  0]LogIoStore: Display: Processing redirects...
-[2025.12.18-22.42.35:319][  0]LogIoStore: Display: Creating disk layout...
-[2025.12.18-22.42.35:320][  0]LogIoStore: Display: Ordered 673 packages using fallback bundle order
-[2025.12.18-22.42.35:327][  0]LogIoStore: Display: Serializing container(s)...
-[2025.12.18-22.42.36:532][  0]LogIoStore: Display: Writing and compressing took 0.86 seconds, writes to disk took 0.46 seconds for 351,727,840 bytes @ 757,850,555 bytes per second.
-[2025.12.18-22.42.36:532][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
-[2025.12.18-22.42.36:532][  0]LogIoStore: Display: TheBoysInTheTower-Windows: Found perfect hashmap for 2019 items.
-[2025.12.18-22.42.36:546][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 265,630 bytes, 18,754,809 bytes per second
-[2025.12.18-22.42.36:546][  0]LogIoStore: Display: Writing tocs... [Physical: 724 MiB, Virtual: 3431 MiB]
-[2025.12.18-22.42.36:546][  0]LogIoStore: Display: 182 / 2,020 hashes were loaded from the hash database, by type:
-[2025.12.18-22.42.36:546][  0]LogIoStore: Display:     BulkData                   182
-[2025.12.18-22.42.36:546][  0]LogIoStore: Display: 855 / 2,020 chunks attempted to compress, by type:
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     ExportBundleData           673 / 673
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     BulkData                   182 / 182
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     ScriptObjects              0 / 1
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     ContainerHeader            0 / 1
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     ShaderCode                 0 / 1,159
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display: Source bytes read:
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     Zen:                                  0
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     Loose File:                 695,013,223
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:         ExportBundleData        346,985,484 bytes over 1,346 reads
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:         BulkData                348,027,739 bytes over 182 reads
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:     Memory:                     128,033,188
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:         ShaderCodeLibrary         1,090,912 bytes over 8 reads
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display:         ShaderCode              126,942,276 bytes over 2,318 reads
-[2025.12.18-22.42.36:547][  0]LogIoStore: Display: Calculating stats...
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container Summary
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ==================
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: TheBoysInTheTower-Windows                           C/-/-/I/-            2019          258.78               560.55               333.14 (40.57% Oodle)
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Total                                                                    2020          259.40               562.85               335.43
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Compression block padding:     1.45 MiB
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container Directory Index
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ==========================
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container                                          Size (KiB)
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: global                                                   0.00
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: TheBoysInTheTower-Windows                               40.67
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container Patch Report
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ========================
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: TheBoysInTheTower-Windows                                2019                0             2019             0.00           331.69
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: PackageStore
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: =============
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: TheBoysInTheTower-Windows                                  21             673               0
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Total                                                      21             673               0
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:       673 Packages
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:      0.16 GB UExp
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:      0.00 GB UAsset
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:      0.32 GB UBulk
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:     37.67 MB for 766 Global shaders
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:      2.38 MB for 159 Shared shaders
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Input:     20.48 MB for 234 Inline shaders
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Output:     6953 Name map entries
-[2025.12.18-22.42.36:548][  0]LogIoStore: Display: Output:      791 Imported package entries
-[2025.12.18-22.42.36:550][  0]LogIoStore: Display: Output:      410 Packages without imports
-[2025.12.18-22.42.36:550][  0]LogIoStore: Display: Output:        0 Public runtime script objects
-[2025.12.18-22.42.36:550][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
-[2025.12.18-22.42.36:550][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
-[2025.12.18-22.42.36:550][  0]LogIoStore: Display: 
-[2025.12.18-22.42.36:559][  0]LogPakFile: Display: UnrealPak executed in 2.675073 seconds
-[2025.12.18-22.42.36:569][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2025.12.18-22.42.36:569][  0]LogExit: Preparing to exit.
-[2025.12.18-22.42.36:570][  0]LogExit: Object subsystem successfully closed.
-[2025.12.18-22.42.36:570][  0]LogPakFile: Destroying PakPlatformFile
-[2025.12.18-22.42.36:571][  0]LogExit: Exiting.
-[2025.12.18-22.42.36:585][  0]Log file closed, 12/18/25 22:42:36
+[2025.12.19-15.30.15:483][  0]LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+[2025.12.19-15.30.15:483][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.12.19-15.30.15:483][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.12.19-15.30.15:483][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2025.12.19-15.30.15:483][  0]LogInit: Computer: S01104
+[2025.12.19-15.30.15:483][  0]LogInit: User: st20270436
+[2025.12.19-15.30.15:483][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.12.19-15.30.15:483][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.12.19-15.30.15:839][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.12.19-15.30.15:839][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx) Virtual=36.6GB
+[2025.12.19-15.30.15:839][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.12.19-15.30.15:839][  0]LogMemory: Process Physical Memory: 64.47 MB used, 65.34 MB peak
+[2025.12.19-15.30.15:839][  0]LogMemory: Process Virtual Memory: 129.66 MB used, 129.66 MB peak
+[2025.12.19-15.30.15:839][  0]LogMemory: Physical Memory: 16390.79 MB used,  16205.96 MB free, 32596.75 MB total
+[2025.12.19-15.30.15:839][  0]LogMemory: Virtual Memory: 21494.78 MB used,  15965.97 MB free, 37460.75 MB total
+[2025.12.19-15.30.15:846][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2025.12.19-15.30.15:846][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2025.12.19-15.30.15:846][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.12.19-15.30.15:847][  0]LogInit: Using OS detected language ().
+[2025.12.19-15.30.15:847][  0]LogInit: Using OS detected locale ().
+[2025.12.19-15.30.15:848][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.12.19-15.30.15:849][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.12.19-15.30.15:849][  0]LogInit: Using OS detected language ().
+[2025.12.19-15.30.15:849][  0]LogInit: Using OS detected locale ().
+[2025.12.19-15.30.15:850][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.12.19-15.30.15:850][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.12.19-15.30.15:850][  0]LogPakFile: Display: ProjectDir: G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/
+[2025.12.19-15.30.15:850][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.12.19-15.30.15:850][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows\TheBoysInTheTower\Metadata\Crypto.json'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using max partition size '0'
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Not using DDC for compression
+[2025.12.19-15.30.15:857][  0]LogIoStore: Display: Using command list file: 'C:\Users\st20270436\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+data+UE_5.5\IoStoreCommands.txt'
+[2025.12.19-15.30.15:863][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2025.12.19-15.30.15:867][  0]LogIoStore: Display: Fetched 791 oplog items from Manifest in 0.01 seconds
+[2025.12.19-15.30.15:871][  0]LogIoStore: Display: Parsed 791 oplog items 0.00 seconds, 1027 chunks
+[2025.12.19-15.30.15:900][  0]LogIoStore: Display: Using input asset registry: G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Saved/Cooked/Windows/TheBoysInTheTower/Metadata/DevelopmentAssetRegistry.bin
+[2025.12.19-15.30.15:911][  0]LogIoStore: Display: Loaded 243 chunk hashes from AssetRegistry in 0.04 seconds, 243 hashes updated in 0.00 seconds
+[2025.12.19-15.30.15:919][  0]LogIoStore: Display: Searching for cooked assets in folder 'G:\St20270436\The Boy In the Tower\TipToeProductions\TheBoysInTheTower\Saved\Cooked\Windows'
+[2025.12.19-15.30.16:061][  0]LogIoStore: Display: Found '1819' files
+[2025.12.19-15.30.16:071][  0]LogIoStore: Display: Creating container targets...
+[2025.12.19-15.30.16:075][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.12.19-15.30.16:154][  0]LogIoStore: Display: Parsing packages...
+[2025.12.19-15.30.16:154][  0]LogIoStore: Display: Reading package assets...
+[2025.12.19-15.30.16:901][  0]LogIoStore: Display: Packages read 784 files in 0.75 seconds, 1,458,005 total bytes, 1,951,567 bytes per second
+[2025.12.19-15.30.16:904][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2025.12.19-15.30.16:924][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 351 groups (131 of them didn't need new indices), average uncompressed size 164581 bytes, min 249 bytes, max 1042473 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.19-15.30.16:994][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4015 shaders as 351 groups. Library size changed from 12977 KB (4.35 : 1 ratio) to 5502 KB (10.25 : 1 ratio), 42.40% of previous.
+[2025.12.19-15.30.17:034][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 415 groups (140 of them didn't need new indices), average uncompressed size 189615 bytes, min 1249 bytes, max 1022562 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.19-15.30.17:409][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 5446 shaders as 415 groups. Library size changed from 58476 KB (1.31 : 1 ratio) to 33073 KB (2.32 : 1 ratio), 56.56% of previous.
+[2025.12.19-15.30.17:429][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 201 groups (61 of them didn't need new indices), average uncompressed size 223977 bytes, min 325 bytes, max 1039652 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.19-15.30.17:478][  0]LogIoStore: Display: TheBoysInTheTower-PCD3D_SM5(PCD3D_SM5): Recompressed 1825 shaders as 201 groups. Library size changed from 11045 KB (3.98 : 1 ratio) to 4169 KB (10.54 : 1 ratio), 37.75% of previous.
+[2025.12.19-15.30.17:504][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 204 groups (60 of them didn't need new indices), average uncompressed size 219343 bytes, min 2342 bytes, max 994320 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.19-15.30.17:717][  0]LogIoStore: Display: TheBoysInTheTower-PCD3D_SM6(PCD3D_SM6): Recompressed 2420 shaders as 204 groups. Library size changed from 33277 KB (1.31 : 1 ratio) to 20600 KB (2.12 : 1 ratio), 61.91% of previous.
+[2025.12.19-15.30.17:718][  0]LogIoStore: Display: Shaders processed in 0.81 seconds
+[2025.12.19-15.30.17:718][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
+[2025.12.19-15.30.17:723][  0]LogIoStore: Display: Processing redirects...
+[2025.12.19-15.30.17:723][  0]LogIoStore: Display: Creating disk layout...
+[2025.12.19-15.30.17:724][  0]LogIoStore: Display: Ordered 784 packages using fallback bundle order
+[2025.12.19-15.30.17:732][  0]LogIoStore: Display: Serializing container(s)...
+[2025.12.19-15.30.19:736][  0]LogIoStore: Display: Writing chunks 1967/2202... [794 compressed] [60 compression tasks] [Physical: 595 MiB, Virtual: 3438 MiB]
+[2025.12.19-15.30.20:744][  0]LogIoStore: Display: Writing and compressing took 1.92 seconds, writes to disk took 0.51 seconds for 476,727,664 bytes @ 928,851,898 bytes per second.
+[2025.12.19-15.30.20:744][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.12.19-15.30.20:745][  0]LogIoStore: Display: TheBoysInTheTower-Windows: Found perfect hashmap for 2201 items.
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 327,607 bytes, 36,631,146 bytes per second
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Writing tocs... [Physical: 610 MiB, Virtual: 3375 MiB]
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: 243 / 2,202 hashes were loaded from the hash database, by type:
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     BulkData                   243
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: 1,027 / 2,202 chunks attempted to compress, by type:
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     ExportBundleData           784 / 784
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     BulkData                   243 / 243
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     ShaderCode                 0 / 1,169
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Source bytes read:
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     Zen:                                  0
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     Loose File:                 939,011,806
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:         ExportBundleData        364,432,454 bytes over 1,568 reads
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:         BulkData                574,579,352 bytes over 243 reads
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:     Memory:                     130,839,256
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:         ShaderCodeLibrary         1,111,648 bytes over 8 reads
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display:         ShaderCode              129,727,608 bytes over 2,338 reads
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Calculating stats...
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Container Summary
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: ==================
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:753][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: TheBoysInTheTower-Windows                           C/-/-/I/-            2201          319.31               786.63               452.35 (42.50% Oodle)
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Total                                                                    2202          319.93               788.92               454.64
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Compression block padding:     1.56 MiB
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Container Directory Index
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ==========================
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: global                                                   0.00
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: TheBoysInTheTower-Windows                               48.65
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Container Patch Report
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ========================
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: TheBoysInTheTower-Windows                                2201                0             2201             0.00           450.79
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: PackageStore
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: =============
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: TheBoysInTheTower-Windows                                  24             784               0
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Total                                                      24             784               0
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:       784 Packages
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:      0.17 GB UExp
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:      0.54 GB UBulk
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:     37.67 MB for 766 Global shaders
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:      2.52 MB for 165 Shared shaders
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Input:     21.66 MB for 238 Inline shaders
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Output:     8768 Name map entries
+[2025.12.19-15.30.20:754][  0]LogIoStore: Display: Output:      966 Imported package entries
+[2025.12.19-15.30.20:755][  0]LogIoStore: Display: Output:      479 Packages without imports
+[2025.12.19-15.30.20:755][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.12.19-15.30.20:755][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.12.19-15.30.20:755][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
+[2025.12.19-15.30.20:755][  0]LogIoStore: Display: 
+[2025.12.19-15.30.20:759][  0]LogPakFile: Display: UnrealPak executed in 4.909079 seconds
+[2025.12.19-15.30.20:767][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.12.19-15.30.20:767][  0]LogExit: Preparing to exit.
+[2025.12.19-15.30.20:767][  0]LogExit: Object subsystem successfully closed.
+[2025.12.19-15.30.20:768][  0]LogPakFile: Destroying PakPlatformFile
+[2025.12.19-15.30.20:769][  0]LogExit: Exiting.
+[2025.12.19-15.30.20:810][  0]Log file closed, 12/19/25 15:30:20

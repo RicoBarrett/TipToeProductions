@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E665EE07D0B739E3390BC3094040E9C868D31592",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
 			"ShaderMapHash": "3089800B29A6FD208623057C954A739559C76826",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
@@ -47,6 +53,12 @@
 			"ShaderMapHash": "3564560F14F0E8BC3E45BC7F779E25DA58836D73",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "F0AE0810EEBB39C42A888CFA5F54A3EDF6D3D7C9",
+			"Assets": [
+				"/Game/Assets/AncientTreasures/Materials/Masters/MM_Master_Material_01a"
 			]
 		},
 		{
@@ -196,6 +208,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3634C8447A740204A2E70FD79F6AE272116E6022",
+			"Assets": [
+				"/Game/Fab/Game_Ready_Rustic_Table/08_-_Default"
+			]
+		},
+		{
 			"ShaderMapHash": "F7BECB44E207D00F9FD8F709891FE914896CF5F9",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
@@ -217,12 +235,6 @@
 			"ShaderMapHash": "A2839947AE2C4BC98966E1CD05D0AD266CAF84C8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4D2AD9502568F8090B93961AE3A3E887038E981E",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -276,7 +288,8 @@
 		{
 			"ShaderMapHash": "47E8B6632FDF63BA45480C7CFCBFB252DDDE4877",
 			"Assets": [
-				"/Game/Fab/Stone/stone"
+				"/Game/Fab/Stone/stone",
+				"/Game/Fab/Wooden_barrel/M_Barrel"
 			]
 		},
 		{
@@ -289,6 +302,12 @@
 			"ShaderMapHash": "0B8AD8674EEF03FB7B4085BC830B1068CEC0A1A0",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "F9D54969F8699C69CC911FB98084FA890A40BE72",
+			"Assets": [
+				"/Game/Assets/OldWest/Shared/Materials/MM_MasterMaterial_01a"
 			]
 		},
 		{
@@ -307,6 +326,12 @@
 			"ShaderMapHash": "3CEFD67749F355AA447E672C8A75D2ABF03A9700",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA79178ED1AA6792F9FF1FD0208FCD365FD65CA",
+			"Assets": [
+				"/Game/City_of_Brass_Props/Materials/Enviro_Substance_Material"
 			]
 		},
 		{
@@ -376,12 +401,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6E9BD7910274FAE1B5C9A923CB241AF2BD26C5EE",
-			"Assets": [
-				"/Game/Assets/OldWest/Shared/Materials/MM_Glass_01a"
-			]
-		},
-		{
 			"ShaderMapHash": "808C1994E2EB691A9CD261C33714CCC237001086",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -412,15 +431,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "139F039CA8E5705ED81996B03F2DA5B4D1BF876D",
+			"ShaderMapHash": "5E1CA9962E72063722F4E3AEE2DC30B8F62D90CB",
 			"Assets": [
-				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+				"/Game/City_of_Brass_Props/Materials/Candle_Animated_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "31A4D79C67A73EE5977469CF1C5D40DE20244D86",
+			"ShaderMapHash": "139F039CA8E5705ED81996B03F2DA5B4D1BF876D",
 			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
 			]
 		},
 		{
@@ -496,9 +515,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "052512C34AA7A04D5C9DE3E813CC317F64280205",
+			"ShaderMapHash": "B46EBEBD533D9E203915D227AA5320BE7238A2DB",
 			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
@@ -529,12 +548,6 @@
 			"ShaderMapHash": "68E9E1CABC626809D02091CE9DA0D4666B81C000",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "C34F07CB23BFE76839DF1119556146109586DB6E",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
@@ -586,6 +599,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "41CC15DA493BDA721D675D5D8D3E73BB4975623D",
+			"Assets": [
+				"/Game/Fab/Medieval_Torch/Torch"
+			]
+		},
+		{
 			"ShaderMapHash": "1F61F8DD57491CF0809C47ADF2FDFBFD4B726413",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -595,12 +614,6 @@
 			"ShaderMapHash": "CFFFAEDEECC80D94A0A6BE73C3170A0ADC04ABF2",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "562411E615F9AD878F20F156927E19CD7DB754C9",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -650,6 +663,12 @@
 			"ShaderMapHash": "FD0D04F32FD238F5D0611434C34776723C6F1B05",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FAF3A0F4B4D699F4739291BDC0578F1BBDA74B92",
+			"Assets": [
+				"/Game/Stylish_Fire_VFX/Material/M_Toon_Fire"
 			]
 		},
 		{

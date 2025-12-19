@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/BlockOut.umap",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Blueprints/BP_Torch.uasset",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Player/BP_Player.uasset",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Inventory/Items/BP_ItemMaster.uasset",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Enemy/BP_EnemyBase.uasset",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Inputs/IMC_FreeMovement.uasset",
+				"G:/St20270436/The Boy In the Tower/TipToeProductions/TheBoysInTheTower/Content/Inputs/IA_Hiding.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Bread_BP.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Inventory/Items/BP_ItemBread.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/SaveRoomTest.umap",

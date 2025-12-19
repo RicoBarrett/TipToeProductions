@@ -1,0 +1,4 @@
+Breadcrumbs 'Parallel'
+ - SlateUI Title = TheBoysInTheTower - Unreal Editor
+ - FRDGBuilder::Execute
+ - Frame 225768
