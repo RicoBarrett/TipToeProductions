@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/TestingMap.umap",
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Testing/FT_CanEnemySee.uasset",
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Testing/BPI_Testing.uasset",
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Enemy/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Testing/FT_CanEnemyHear.uasset",
+				"C:/Users/Rico Barrett/Desktop/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Testing/FT_InventoryPickUp.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Bread_BP.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/Blueprints/Inventory/Items/BP_ItemBread.uasset",
 				"C:/Users/jacob/Documents/GitHub/TipToeProductions/TheBoysInTheTower/Content/SaveRoomTest.umap",
