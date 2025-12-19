@@ -3541,3 +3541,787 @@ FPackageName: Skipped package /Interchange/gltf/MaterialInstances/MI_Default_Mas
 [2025.12.19-00.27.48:780][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4401.226562
 [2025.12.19-00.27.49:780][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.19-00.27.49:780][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4401.893066, Update Interval: 316.450684
+[2025.12.19-00.33.39:511][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4751.957031
+[2025.12.19-00.33.40:511][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-00.33.40:512][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4752.623535, Update Interval: 313.313995
+[2025.12.19-00.35.24:959][356]LogContentBrowser: Deferred new asset file creation: SE_Walking1
+[2025.12.19-00.35.26:010][463]LogContentBrowser: Creating deferred item: SE_Walking1
+[2025.12.19-00.35.26:033][464]LogContentBrowser: Renaming the item being created (Deferred Item: SE_Walking1).
+[2025.12.19-00.35.34:410][352]LogContentBrowser: Attempting asset rename: SE_Walking1 -> SE_EnemyWalk
+[2025.12.19-00.35.34:413][352]LogContentBrowser: End creating deferred item SE_Walking1
+[2025.12.19-00.35.39:610][889]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound_Effects/SE_EnemyWalk.SE_EnemyWalk
+[2025.12.19-00.36.03:299][383]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-00.36.03:312][383]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\daria\Downloads\heavy-footsteps-1-[AudioTrimmer.com].mp3)
+[2025.12.19-00.36.03:321][383]Imported audio has DC offsets larger than 100 at the end of 1 channel - may pop and not loop well: 'heavy-footsteps-1-_AudioTrimmer_com_'
+[2025.12.19-00.36.03:323][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com_...
+[2025.12.19-00.36.03:328][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com_ compressed to 10.20% (from 150KB to 15KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:328][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=15753 bytes, ChunkN=0)
+[2025.12.19-00.36.03:330][383]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\daria\Downloads\heavy-footsteps-1-[AudioTrimmer.com] (2).mp3)
+[2025.12.19-00.36.03:331][383]Imported audio has DC offsets larger than 100 at the end of 2 channels - may pop and not loop well: 'heavy-footsteps-1-_AudioTrimmer_com___2_'
+[2025.12.19-00.36.03:331][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com_...
+[2025.12.19-00.36.03:332][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___2_...
+[2025.12.19-00.36.03:335][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com_ compressed to 10.20% (from 150KB to 15KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:336][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=15753 bytes, ChunkN=0)
+[2025.12.19-00.36.03:337][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___2_ compressed to 17.54% (from 137KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:337][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_.heavy-footsteps-1-_AudioTrimmer_com___2_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=24673 bytes, ChunkN=0)
+[2025.12.19-00.36.03:338][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___2_...
+[2025.12.19-00.36.03:339][383]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\daria\Downloads\heavy-footsteps-1-[AudioTrimmer.com] (1).mp3)
+[2025.12.19-00.36.03:341][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___1_...
+[2025.12.19-00.36.03:341][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___2_ compressed to 17.54% (from 137KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:343][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_.heavy-footsteps-1-_AudioTrimmer_com___2_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=24673 bytes, ChunkN=0)
+[2025.12.19-00.36.03:344][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___1_ compressed to 16.43% (from 123KB to 20KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:344][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_.heavy-footsteps-1-_AudioTrimmer_com___1_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=20845 bytes, ChunkN=0)
+[2025.12.19-00.36.03:345][383]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___1_...
+[2025.12.19-00.36.03:349][383]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___1_ compressed to 16.43% (from 123KB to 20KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.36.03:349][383]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_.heavy-footsteps-1-_AudioTrimmer_com___1_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=20845 bytes, ChunkN=0)
+[2025.12.19-00.36.43:878][469]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.12.19-00.36.50:476][  8]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Enemy/ABP_Enemy.ABP_Enemy
+[2025.12.19-00.36.50:476][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.12.19-00.36.50:483][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.12.19-00.36.50:490][  8]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'SKM_DKM_Full'
+[2025.12.19-00.36.50:501][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.19-00.36.50:866][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.12.19-00.36.51:280][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.12.19-00.36.57:848][554]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd.Anim_DKM_Walk_Fwd
+[2025.12.19-00.36.57:848][554]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.12.19-00.36.57:855][554]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'SKM_DKM_Full'
+[2025.12.19-00.36.57:866][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.19-00.36.58:174][554]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.12.19-00.38.41:702][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.19-00.38.41:705][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hiding' took 0.095
+[2025.12.19-00.38.41:707][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd] ([1] browsable assets)...
+[2025.12.19-00.38.41:816][ 64]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd.Anim_DKM_Walk_Fwd]
+[2025.12.19-00.38.41:816][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd]
+[2025.12.19-00.38.41:831][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd_Auto4
+[2025.12.19-00.38.41:831][ 64]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Anim_DKM_Walk_Fwd_Auto42DA6F3EF4CC6456E9FA0B6A585468167.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd_Auto4.uasset'
+[2025.12.19-00.38.41:833][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/SE_EnemyWalk] ([1] browsable assets)...
+[2025.12.19-00.38.41:833][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/SE_EnemyWalk]
+[2025.12.19-00.38.41:836][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound_Effects/SE_EnemyWalk_Auto4
+[2025.12.19-00.38.41:836][ 64]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/SE_EnemyWalk_Auto40E66676548C61C5F8314DBA052F7A3C2.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Sound_Effects/SE_EnemyWalk_Auto4.uasset'
+[2025.12.19-00.38.41:837][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_] ([1] browsable assets)...
+[2025.12.19-00.38.41:839][ 64]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com_]
+[2025.12.19-00.38.41:839][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_]
+[2025.12.19-00.38.41:844][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com__Auto4
+[2025.12.19-00.38.41:844][ 64]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_78D2FF494282FD353BCEA3814430B8A4.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com__Auto4.uasset'
+[2025.12.19-00.38.41:846][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_] ([1] browsable assets)...
+[2025.12.19-00.38.41:848][ 64]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_.heavy-footsteps-1-_AudioTrimmer_com___2_]
+[2025.12.19-00.38.41:848][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_]
+[2025.12.19-00.38.41:852][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2__Auto4
+[2025.12.19-00.38.41:852][ 64]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_22C738E84128C4B3C73E989DB85E9F4B.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2__Auto4.uasset'
+[2025.12.19-00.38.41:853][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_] ([1] browsable assets)...
+[2025.12.19-00.38.41:855][ 64]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_.heavy-footsteps-1-_AudioTrimmer_com___1_]
+[2025.12.19-00.38.41:855][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_]
+[2025.12.19-00.38.41:858][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1__Auto4
+[2025.12.19-00.38.41:858][ 64]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_DFC931F64A4BF9BDEA7C7FAD4A16117B.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Autosaves/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1__Auto4.uasset'
+[2025.12.19-00.38.41:859][ 64]LogFileHelpers: Auto-saving content packages took 0.154
+[2025.12.19-00.39.45:025][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5117.460449
+[2025.12.19-00.39.46:026][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-00.39.46:026][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5118.127930, Update Interval: 352.928253
+[2025.12.19-00.39.59:769][543]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\daria\Downloads\heavy-footsteps-1-[AudioTrimmer.com] (3).mp3)
+[2025.12.19-00.39.59:770][543]Imported audio has DC offsets larger than 100 at the end of 2 channels - may pop and not loop well: 'heavy-footsteps-1-_AudioTrimmer_com___3_'
+[2025.12.19-00.39.59:771][543]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___3_...
+[2025.12.19-00.39.59:775][543]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___3_ compressed to 18.38% (from 96KB to 17KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.39.59:775][543]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_.heavy-footsteps-1-_AudioTrimmer_com___3_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=18237 bytes, ChunkN=0)
+[2025.12.19-00.39.59:777][543]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\daria\Downloads\heavy-footsteps-1-[AudioTrimmer.com] (2)-[AudioTrimmer.com].mp3)
+[2025.12.19-00.39.59:777][543]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___3_...
+[2025.12.19-00.39.59:778][543]Imported audio has DC offsets larger than 100 at the end of 2 channels - may pop and not loop well: 'heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_'
+[2025.12.19-00.39.59:778][543]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_...
+[2025.12.19-00.39.59:781][543]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___3_ compressed to 18.38% (from 96KB to 17KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.39.59:781][543]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_.heavy-footsteps-1-_AudioTrimmer_com___3_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=18237 bytes, ChunkN=0)
+[2025.12.19-00.39.59:782][543]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_ compressed to 20.02% (from 92KB to 18KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.39.59:782][543]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=18949 bytes, ChunkN=0)
+[2025.12.19-00.39.59:783][543]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_...
+[2025.12.19-00.39.59:787][543]LogAudioDerivedData: Display: heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_ compressed to 20.02% (from 92KB to 18KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.19-00.39.59:787][543]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=18949 bytes, ChunkN=0)
+[2025.12.19-00.40.50:855][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.40.50:905][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd] ([1] browsable assets)...
+[2025.12.19-00.40.50:905][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd]
+[2025.12.19-00.40.50:916][ 53]LogSavePackage: Moving output files for package: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd
+[2025.12.19-00.40.50:917][ 53]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Anim_DKM_Walk_FwdD0793E9C4B486B05ED87BCABDC00FC25.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd.uasset'
+[2025.12.19-00.40.50:927][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.856 ms (total: 692.296 ms)
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: Enabled validators:
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.40.50:964][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.40.50:964][ 53]AssetCheck: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd Validating asset
+[2025.12.19-00.40.53:957][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.40.53:971][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.40.53:993][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.40.54:000][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006211s)
+[2025.12.19-00.40.54:000][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.006255s)
+[2025.12.19-00.40.54:024][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.12.19-00.40.54:027][284]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.40.54:029][284]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2025.12.19-00.40.54:030][284]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.40.54:030][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.40.54:030][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.40.54:030][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.40.54:030][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.40.54:030][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.40.54:033][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.40.54:061][284]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.40.54:061][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.40.54:061][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.40.54:061][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.40.54:062][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.12.19-00.40.54:062][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.12.19-00.40.54:065][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.12.19-00.40.54:065][284]LogInit: FAudioDevice initialized with ID 22.
+[2025.12.19-00.40.54:065][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.12.19-00.40.54:065][284]LogAudio: Display: Audio Device (ID: 22) registered with world 'Hiding'.
+[2025.12.19-00.40.54:065][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.19-00.40.54:067][284]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.40.54:070][284]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.40.54:073][284]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.40.54
+[2025.12.19-00.40.54:074][284]LogWorld: Bringing up level for play took: 0.003066
+[2025.12.19-00.40.54:076][284]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.12.19-00.40.54:079][284]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.40.54:080][284]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.40.54:080][284]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.40.54:080][284]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.40.54:081][284]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.40.54:081][284]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.40.54:082][284]PIE: Server logged in
+[2025.12.19-00.40.54:083][284]PIE: Play in editor total start time 0.112 seconds.
+[2025.12.19-00.40.54:095][284]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.40.54:283][286]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.41.14:974][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.41.14:974][233]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.41.14:976][233]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.41.14:976][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.41.14:980][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.41.14:987][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.41.15:008][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.41.15:008][233]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.12.19-00.41.15:008][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.12.19-00.41.15:010][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.12.19-00.41.15:019][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.12.19-00.41.15:058][234]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.12.19-00.41.15:077][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.19-00.41.15:185][243]Cmd: SELECT NONE
+[2025.12.19-00.41.46:388][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.41.46:420][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.41.46:420][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.41.46:463][769]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.41.46:464][769]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd1D1B8CAC24FAF021BD9CB74AE67870783.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.41.46:473][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.312 ms (total: 776.608 ms)
+[2025.12.19-00.41.46:504][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.41.46:504][769]LogContentValidation: Enabled validators:
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.41.46:504][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.41.46:504][769]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.41.53:253][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.41.53:285][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.41.53:285][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.41.53:329][354]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.41.53:329][354]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd1D7FBF74C45AE49F33DA201BB5A327F89.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.41.53:337][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.826 ms (total: 860.434 ms)
+[2025.12.19-00.41.53:366][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.41.53:366][354]LogContentValidation: Enabled validators:
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.41.53:366][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.41.53:366][354]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.41.55:074][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.41.55:102][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd] ([1] browsable assets)...
+[2025.12.19-00.41.55:102][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd]
+[2025.12.19-00.41.55:113][483]LogSavePackage: Moving output files for package: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd
+[2025.12.19-00.41.55:114][483]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Anim_DKM_Walk_FwdB3865579480A768F14E1EEAC00C8400F.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd.uasset'
+[2025.12.19-00.41.55:121][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.940 ms (total: 908.374 ms)
+[2025.12.19-00.41.55:151][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.41.55:151][483]LogContentValidation: Enabled validators:
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.41.55:151][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.41.55:151][483]AssetCheck: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd Validating asset
+[2025.12.19-00.41.56:314][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.41.56:327][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.41.56:327][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.41.56:331][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2025.12.19-00.41.56:331][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.005278s)
+[2025.12.19-00.41.56:351][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.19-00.41.56:354][590]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.41.56:355][590]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2025.12.19-00.41.56:356][590]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.41.56:356][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.41.56:356][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.41.56:356][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.41.56:356][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.41.56:356][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.41.56:359][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.41.56:397][590]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.41.56:398][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.41.56:398][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.41.56:398][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.41.56:398][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.12.19-00.41.56:398][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.12.19-00.41.56:401][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.12.19-00.41.56:401][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.12.19-00.41.56:401][590]LogInit: FAudioDevice initialized with ID 23.
+[2025.12.19-00.41.56:401][590]LogAudio: Display: Audio Device (ID: 23) registered with world 'Hiding'.
+[2025.12.19-00.41.56:401][590]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.19-00.41.56:401][590]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.41.56:404][590]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.41.56:406][590]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.41.56
+[2025.12.19-00.41.56:406][590]LogWorld: Bringing up level for play took: 0.002559
+[2025.12.19-00.41.56:409][590]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.12.19-00.41.56:411][590]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.41.56:412][590]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.41.56:413][590]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.41.56:413][590]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.41.56:413][590]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.41.56:413][590]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.41.56:414][590]PIE: Server logged in
+[2025.12.19-00.41.56:415][590]PIE: Play in editor total start time 0.089 seconds.
+[2025.12.19-00.41.56:427][590]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.41.56:506][592]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.42.07:643][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.42.07:644][697]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.42.07:645][697]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.42.07:645][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.42.07:649][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.42.07:655][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.42.07:675][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.42.07:676][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.12.19-00.42.07:676][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.12.19-00.42.07:677][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.12.19-00.42.07:687][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.12.19-00.42.07:721][698]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.12.19-00.42.07:744][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.19-00.42.34:858][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.42.34:886][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.42.34:886][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.42.34:928][885]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.42.34:928][885]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd18572376A476BCC8906B67DB7EC0AE8E9.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.42.34:937][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.837 ms (total: 987.212 ms)
+[2025.12.19-00.42.34:968][885]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.42.34:969][885]LogContentValidation: Enabled validators:
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.42.34:969][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.42.34:969][885]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.42.36:184][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.42.36:195][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.42.36:224][996]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.42.36:228][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005212s)
+[2025.12.19-00.42.36:228][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.005254s)
+[2025.12.19-00.42.36:251][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.12.19-00.42.36:253][996]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.42.36:254][996]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2025.12.19-00.42.36:254][996]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.42.36:254][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.42.36:256][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.42.36:256][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.42.36:256][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.42.36:256][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.42.36:256][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.42.36:258][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.42.36:298][996]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.42.36:299][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.42.36:299][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.42.36:299][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.42.36:299][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.12.19-00.42.36:299][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.12.19-00.42.36:303][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.12.19-00.42.36:303][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.12.19-00.42.36:303][996]LogInit: FAudioDevice initialized with ID 24.
+[2025.12.19-00.42.36:303][996]LogAudio: Display: Audio Device (ID: 24) registered with world 'Hiding'.
+[2025.12.19-00.42.36:303][996]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.19-00.42.36:303][996]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.42.36:306][996]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.42.36:308][996]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.42.36
+[2025.12.19-00.42.36:308][996]LogWorld: Bringing up level for play took: 0.002379
+[2025.12.19-00.42.36:311][996]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.12.19-00.42.36:313][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.42.36:314][996]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.42.36:315][996]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.42.36:315][996]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.42.36:315][996]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.42.36:315][996]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.42.36:316][996]PIE: Server logged in
+[2025.12.19-00.42.36:317][996]PIE: Play in editor total start time 0.122 seconds.
+[2025.12.19-00.42.36:328][996]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.42.36:402][998]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.42.42:824][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.42.42:824][615]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.42.42:826][615]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.42.42:826][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.42.42:829][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.42.42:835][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.42.42:853][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.19-00.42.42:854][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.19-00.42.42:854][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.12.19-00.42.42:856][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.12.19-00.42.42:860][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.42.42:865][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.12.19-00.42.42:900][616]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.12.19-00.42.42:920][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.19-00.43.06:725][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.43.06:744][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd] ([1] browsable assets)...
+[2025.12.19-00.43.06:744][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd]
+[2025.12.19-00.43.06:755][535]LogSavePackage: Moving output files for package: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd
+[2025.12.19-00.43.06:756][535]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/Anim_DKM_Walk_Fwd69337DB442AC38E595870E8BC59F79FE.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd.uasset'
+[2025.12.19-00.43.06:764][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.632 ms (total: 1.02 sec)
+[2025.12.19-00.43.06:791][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.43.06:791][535]LogContentValidation: Enabled validators:
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.43.06:791][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.43.06:791][535]AssetCheck: /Game/Dark_Knight/Dark_Knight_Male/Animations/Anim_DKM_Walk_Fwd Validating asset
+[2025.12.19-00.43.08:553][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.43.08:579][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/SE_EnemyWalk] ([1] browsable assets)...
+[2025.12.19-00.43.08:579][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/SE_EnemyWalk]
+[2025.12.19-00.43.08:579][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/SE_EnemyWalk" FILE="../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/SE_EnemyWalk.uasset" SILENT=true
+[2025.12.19-00.43.08:581][706]LogSavePackage: Moving output files for package: /Game/Sound_Effects/SE_EnemyWalk
+[2025.12.19-00.43.08:581][706]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/SE_EnemyWalkC2F5A9FC41174F98038BCDB9F487B3DC.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/SE_EnemyWalk.uasset'
+[2025.12.19-00.43.08:589][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.050 ms (total: 1.06 sec)
+[2025.12.19-00.43.08:619][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.43.08:619][706]LogContentValidation: Enabled validators:
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.43.08:620][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.43.08:620][706]AssetCheck: /Game/Sound_Effects/SE_EnemyWalk Validating asset
+[2025.12.19-00.43.10:067][845]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.43.10:079][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.43.10:079][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.43.10:085][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005999s)
+[2025.12.19-00.43.10:085][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.006035s)
+[2025.12.19-00.43.10:108][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.12.19-00.43.10:111][845]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.43.10:112][845]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2025.12.19-00.43.10:113][845]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.43.10:113][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.43.10:113][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.43.10:113][845]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.43.10:113][845]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.43.10:113][845]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.43.10:117][845]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.43.10:164][845]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.43.10:165][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.43.10:165][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.43.10:165][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.43.10:166][845]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.12.19-00.43.10:166][845]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.12.19-00.43.10:169][845]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.12.19-00.43.10:169][845]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.12.19-00.43.10:169][845]LogInit: FAudioDevice initialized with ID 25.
+[2025.12.19-00.43.10:169][845]LogAudio: Display: Audio Device (ID: 25) registered with world 'Hiding'.
+[2025.12.19-00.43.10:169][845]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.19-00.43.10:169][845]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.43.10:172][845]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.43.10:174][845]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.43.10
+[2025.12.19-00.43.10:174][845]LogWorld: Bringing up level for play took: 0.003144
+[2025.12.19-00.43.10:177][845]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.12.19-00.43.10:181][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.43.10:182][845]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.10:182][845]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.10:182][845]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.10:182][845]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.10:183][845]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.43.10:183][845]PIE: Server logged in
+[2025.12.19-00.43.10:184][845]PIE: Play in editor total start time 0.105 seconds.
+[2025.12.19-00.43.10:198][845]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.43.10:274][847]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.43.17:046][487]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.43.17:046][487]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.43.29:325][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.43.29:325][687]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.43.29:326][687]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.43.29:326][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.43.29:329][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.43.29:336][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.43.29:356][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.43.29:356][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.19-00.43.29:356][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.12.19-00.43.29:359][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.12.19-00.43.29:367][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.12.19-00.43.29:404][688]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.12.19-00.43.29:426][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.12.19-00.43.35:694][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.43.35:727][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.43.35:727][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.43.35:771][231]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.43.35:771][231]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd179D51013447B0832A88677A2F9D1F68A.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.43.35:781][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.541 ms (total: 1.14 sec)
+[2025.12.19-00.43.35:804][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.43.35:804][231]LogContentValidation: Enabled validators:
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.43.35:804][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.43.35:804][231]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.43.37:316][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.43.37:329][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.43.37:329][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.43.37:334][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2025.12.19-00.43.37:334][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.004986s)
+[2025.12.19-00.43.37:351][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.19-00.43.37:353][372]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.43.37:354][372]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2025.12.19-00.43.37:355][372]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.43.37:355][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.43.37:355][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.43.37:355][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.43.37:355][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.43.37:355][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.43.37:358][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.43.37:396][372]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.43.37:397][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.43.37:397][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.43.37:397][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.43.37:397][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.12.19-00.43.37:397][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.12.19-00.43.37:400][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.12.19-00.43.37:400][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.12.19-00.43.37:400][372]LogInit: FAudioDevice initialized with ID 26.
+[2025.12.19-00.43.37:400][372]LogAudio: Display: Audio Device (ID: 26) registered with world 'Hiding'.
+[2025.12.19-00.43.37:400][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.19-00.43.37:400][372]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.43.37:403][372]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.43.37:406][372]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.43.37
+[2025.12.19-00.43.37:406][372]LogWorld: Bringing up level for play took: 0.002694
+[2025.12.19-00.43.37:408][372]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.12.19-00.43.37:411][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.43.37:412][372]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.37:412][372]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.37:413][372]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.37:413][372]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.43.37:413][372]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.43.37:415][372]PIE: Server logged in
+[2025.12.19-00.43.37:415][372]PIE: Play in editor total start time 0.087 seconds.
+[2025.12.19-00.43.37:427][372]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.43.37:501][374]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.43.52:523][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.43.52:523][790]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.43.52:526][790]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.43.52:526][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.43.52:529][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.43.52:535][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.43.52:555][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.19-00.43.52:555][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.19-00.43.52:555][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.12.19-00.43.52:557][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.12.19-00.43.52:561][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.43.52:565][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.19-00.43.52:599][791]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.12.19-00.43.52:620][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.19-00.44.00:841][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.44.00:853][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.44.00:854][ 26]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.44.00:858][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004990s)
+[2025.12.19-00.44.00:858][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.005024s)
+[2025.12.19-00.44.00:876][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.19-00.44.00:877][ 26]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.44.00:879][ 26]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2025.12.19-00.44.00:880][ 26]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.44.00:880][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.44.00:880][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.44.00:880][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.44.00:880][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.44.00:880][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.44.00:881][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.12.19-00.44.00:920][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.12.19-00.44.00:923][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.12.19-00.44.00:923][ 26]LogInit: FAudioDevice initialized with ID 27.
+[2025.12.19-00.44.00:923][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.12.19-00.44.00:923][ 26]LogAudio: Display: Audio Device (ID: 27) registered with world 'Hiding'.
+[2025.12.19-00.44.00:923][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.19-00.44.00:924][ 26]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.44.00:927][ 26]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.44.00:929][ 26]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.44.00
+[2025.12.19-00.44.00:930][ 26]LogWorld: Bringing up level for play took: 0.002517
+[2025.12.19-00.44.00:933][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.12.19-00.44.00:935][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.44.00:936][ 26]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.00:936][ 26]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.00:936][ 26]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.00:936][ 26]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.00:937][ 26]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.44.00:937][ 26]PIE: Server logged in
+[2025.12.19-00.44.00:938][ 26]PIE: Play in editor total start time 0.085 seconds.
+[2025.12.19-00.44.00:951][ 26]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.44.01:028][ 28]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.44.13:063][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.44.13:064][168]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.44.13:065][168]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.44.13:065][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.44.13:069][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.44.13:075][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.44.13:095][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.44.13:095][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.19-00.44.13:095][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.12.19-00.44.13:097][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.12.19-00.44.13:105][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.19-00.44.13:140][169]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.12.19-00.44.13:161][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.19-00.44.33:246][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.44.33:269][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.44.33:269][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.44.33:311][769]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.44.33:312][769]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd1CEFBC8A44BFCB6FD621601B43F4CC0E1.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.44.33:320][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.746 ms (total: 1.22 sec)
+[2025.12.19-00.44.33:353][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.44.33:353][769]LogContentValidation: Enabled validators:
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.44.33:353][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.44.33:353][769]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.44.34:490][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.44.34:502][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.44.34:502][871]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.44.34:506][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005155s)
+[2025.12.19-00.44.34:506][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.005187s)
+[2025.12.19-00.44.34:528][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.19-00.44.34:529][871]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.44.34:531][871]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2025.12.19-00.44.34:532][871]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.44.34:532][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.44.34:532][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.44.34:532][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.44.34:532][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.44.34:532][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.44.34:534][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.44.34:573][871]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.44.34:573][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.44.34:573][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.44.34:573][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.44.34:574][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.12.19-00.44.34:574][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.12.19-00.44.34:576][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.12.19-00.44.34:576][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.12.19-00.44.34:576][871]LogInit: FAudioDevice initialized with ID 28.
+[2025.12.19-00.44.34:576][871]LogAudio: Display: Audio Device (ID: 28) registered with world 'Hiding'.
+[2025.12.19-00.44.34:576][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.19-00.44.34:577][871]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.44.34:579][871]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.44.34:581][871]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.44.34
+[2025.12.19-00.44.34:582][871]LogWorld: Bringing up level for play took: 0.002483
+[2025.12.19-00.44.34:584][871]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.12.19-00.44.34:586][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.44.34:587][871]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.34:588][871]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.34:588][871]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.34:588][871]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.34:588][871]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.44.34:589][871]PIE: Server logged in
+[2025.12.19-00.44.34:590][871]PIE: Play in editor total start time 0.089 seconds.
+[2025.12.19-00.44.34:603][871]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.44.34:678][873]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.44.39:744][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.44.39:744][354]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.44.39:746][354]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.44.39:746][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.44.39:750][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.44.39:755][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.44.39:775][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.19-00.44.39:775][354]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.19-00.44.39:775][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.12.19-00.44.39:778][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.12.19-00.44.39:781][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.44.39:786][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.19-00.44.39:819][355]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.12.19-00.44.39:839][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.19-00.44.51:683][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.44.51:710][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1] ([1] browsable assets)...
+[2025.12.19-00.44.51:710][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1]
+[2025.12.19-00.44.51:755][292]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1
+[2025.12.19-00.44.51:755][292]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/anim_Crouch_Fwd13930BE5B4C8E9EFF33E7AFBDD83C3979.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1.uasset'
+[2025.12.19-00.44.51:764][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.891 ms (total: 1.30 sec)
+[2025.12.19-00.44.51:793][292]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-00.44.51:793][292]LogContentValidation: Enabled validators:
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.44.51:793][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.44.51:793][292]AssetCheck: /Game/FreeAnimationLibrary/Crouch/anim_Crouch_Fwd1 Validating asset
+[2025.12.19-00.44.52:843][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-00.44.52:854][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-00.44.52:884][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Hiding
+[2025.12.19-00.44.52:889][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005273s)
+[2025.12.19-00.44.52:889][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hiding.Hiding to /Game/UEDPIE_0_Hiding.Hiding (0.005320s)
+[2025.12.19-00.44.52:910][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.19-00.44.52:911][383]LogChaosDD: Creating Chaos Debug Draw Scene for world Hiding
+[2025.12.19-00.44.52:913][383]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2025.12.19-00.44.52:915][383]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-00.44.52:915][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-00.44.52:915][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-00.44.52:915][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-00.44.52:915][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-00.44.52:915][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-00.44.52:918][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-00.44.52:957][383]LogAudioMixer: Display: Using Audio Hardware Device Headphones (My Tiny Concert)
+[2025.12.19-00.44.52:958][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-00.44.52:958][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-00.44.52:958][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-00.44.52:958][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.12.19-00.44.52:958][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.12.19-00.44.52:961][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.12.19-00.44.52:961][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.12.19-00.44.52:961][383]LogInit: FAudioDevice initialized with ID 29.
+[2025.12.19-00.44.52:961][383]LogAudio: Display: Audio Device (ID: 29) registered with world 'Hiding'.
+[2025.12.19-00.44.52:961][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.12.19-00.44.52:961][383]LogEnhancedInput: Enhanced Input local player subsystem has initalized the user settings!
+[2025.12.19-00.44.52:964][383]LogLoad: Game class is 'GameModeBase'
+[2025.12.19-00.44.52:966][383]LogWorld: Bringing World /Game/UEDPIE_0_Hiding.Hiding up for play (max tick rate 0) at 2025.12.19-00.44.52
+[2025.12.19-00.44.52:967][383]LogWorld: Bringing up level for play took: 0.002799
+[2025.12.19-00.44.52:969][383]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.12.19-00.44.52:971][383]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.19-00.44.52:973][383]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.52:973][383]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.52:973][383]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.52:973][383]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2025.12.19-00.44.52:974][383]LogLevel: ActivateLevel /Game/UEDPIE_0_TestMap 1 1 0
+[2025.12.19-00.44.52:975][383]PIE: Server logged in
+[2025.12.19-00.44.52:975][383]PIE: Play in editor total start time 0.121 seconds.
+[2025.12.19-00.44.52:986][383]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_DKM_Full'
+[2025.12.19-00.44.53:061][385]LogLevel: ActivateLevel /Game/UEDPIE_0_StreamTest 0 0 0
+[2025.12.19-00.45.03:623][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.45.03:624][406]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Hiding
+[2025.12.19-00.45.03:625][406]LogWorld: UWorld::CleanupWorld for Hiding, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-00.45.03:625][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.45.03:630][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-00.45.03:635][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-00.45.03:655][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.19-00.45.03:655][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.12.19-00.45.03:656][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.12.19-00.45.03:658][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.12.19-00.45.03:663][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-00.45.03:667][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.12.19-00.45.03:701][407]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.12.19-00.45.03:724][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.12.19-00.45.07:719][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.19-00.45.07:726][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-00.45.07:756][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FreeAnimationLibrary/ABS_Crouching] ([1] browsable assets)...
+[2025.12.19-00.45.07:756][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/FreeAnimationLibrary/ABS_Crouching]
+[2025.12.19-00.45.07:758][784]LogSavePackage: Moving output files for package: /Game/FreeAnimationLibrary/ABS_Crouching
+[2025.12.19-00.45.07:759][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/ABS_CrouchingAB8F52E84770AFCDB9E9849459972586.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/FreeAnimationLibrary/ABS_Crouching.uasset'
+[2025.12.19-00.45.07:761][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/SE_FootStepsCrouch] ([1] browsable assets)...
+[2025.12.19-00.45.07:761][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/SE_FootStepsCrouch]
+[2025.12.19-00.45.07:763][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/SE_FootStepsCrouch
+[2025.12.19-00.45.07:763][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/SE_FootStepsCrouch5DA9C3FE45C374074D8BB4B28AB0D191.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/SE_FootStepsCrouch.uasset'
+[2025.12.19-00.45.07:765][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/SE_Crouching] ([1] browsable assets)...
+[2025.12.19-00.45.07:765][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/SE_Crouching]
+[2025.12.19-00.45.07:765][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/SE_Crouching" FILE="../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/SE_Crouching.uasset" SILENT=true
+[2025.12.19-00.45.07:768][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/SE_Crouching
+[2025.12.19-00.45.07:768][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/SE_Crouching0466CABF4D57085709CC88950CF33CF1.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/SE_Crouching.uasset'
+[2025.12.19-00.45.07:769][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_] ([1] browsable assets)...
+[2025.12.19-00.45.07:769][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_]
+[2025.12.19-00.45.07:771][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_
+[2025.12.19-00.45.07:771][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_FB44AA534CE56BFAFC2A4E955A60F644.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_.uasset'
+[2025.12.19-00.45.07:774][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_] ([1] browsable assets)...
+[2025.12.19-00.45.07:774][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_]
+[2025.12.19-00.45.07:777][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_
+[2025.12.19-00.45.07:777][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_07D76D9A4A9A06BCE0CAF9A97BE09270.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_.uasset'
+[2025.12.19-00.45.07:779][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_] ([1] browsable assets)...
+[2025.12.19-00.45.07:779][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_]
+[2025.12.19-00.45.07:781][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_
+[2025.12.19-00.45.07:781][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_B6FC5701499FE033022D9CBEE59E730C.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_.uasset'
+[2025.12.19-00.45.07:784][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_] ([1] browsable assets)...
+[2025.12.19-00.45.07:786][784]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_.heavy-footsteps-1-_AudioTrimmer_com___3_]
+[2025.12.19-00.45.07:786][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_]
+[2025.12.19-00.45.07:789][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_
+[2025.12.19-00.45.07:789][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_5BDAE56340F086011CE429B6CC235280.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_.uasset'
+[2025.12.19-00.45.07:791][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_] ([1] browsable assets)...
+[2025.12.19-00.45.07:793][784]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_.heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_]
+[2025.12.19-00.45.07:793][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_]
+[2025.12.19-00.45.07:796][784]LogSavePackage: Moving output files for package: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_
+[2025.12.19-00.45.07:796][784]LogSavePackage: Moving '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Saved/heavy-footsteps-1-_AudioTrimmer_995F745644189D203D7F19ADEFA52E63.tmp' to '../../../../../../The boy in the tower/TipToeProductions/TheBoysInTheTower/Content/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_.uasset'
+[2025.12.19-00.45.07:823][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.910 ms (total: 1.39 sec)
+[2025.12.19-00.45.07:858][784]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.19-00.45.07:858][784]LogContentValidation: Enabled validators:
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-00.45.07:858][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/FreeAnimationLibrary/ABS_Crouching Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/SE_FootStepsCrouch Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/SE_Crouching Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com_ Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_ Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___1_ Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___3_ Validating asset
+[2025.12.19-00.45.07:858][784]AssetCheck: /Game/Sound_Effects/heavy-footsteps-1-_AudioTrimmer_com___2_-_AudioTrimmer_com_ Validating asset
